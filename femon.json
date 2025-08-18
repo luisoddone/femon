@@ -1470,18 +1470,6 @@
                 }
             },
             {
-                "name": "LA_TELE 🇵🇾",
-                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
-                "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "LA_TELE 🇵🇾 opción 2",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
                 "type": "CLEARKEY",
