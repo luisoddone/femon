@@ -1769,6 +1769,88 @@
         ]
     },
     {
+        "name": "🟣 DEPORTE ARGENTINO (Pack 2) disponible para 🇦🇷",
+        "samples": [
+            {
+                "name": "ESPN Premiun",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "TNT Sports HD",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/00/TNT_Sports_Logo_%282017%29.png/revision/latest?cb=20180622191406&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c79a27f46f44bfbb774b8c7f1f1e57f&key=530fd0cba9dc556a339b03af4b0951b9",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "TyC Sports",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58b7b99c78d841bd841ffcf001a2c397&key=eccfd978965e89e1afe14d7c3b38f7d8",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "FOX Sports",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/cD3CyWC/foxsports.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fdc62b44394044f5929d40ef41f425a1&key=bc88342b7940f2f85dbe698cec2639c5",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "FOX Sports 2",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fb87b63bd6ea4005b66b41cdaca7ba9b&key=bb54f7132fb47d804723ec429ef65c81",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "DeporTV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/DEPORTV/sa_live_dash/DEPORTV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=699fee61524a45e58b470ca18a6c251f&key=f45c612f4f5b26151e62fe4ec34bc743",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Golf Channel",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/GOLF_CHANNEL/sa_live_dash/GOLF_CHANNEL.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/PrXS1x2/GOLFC.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=472d5fe5f6ae4063bc9cbd2377076589&key=30210605c23e8b1117c3b5c7701892a7",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            }
+        ]
+    },
+    {
         "name": "​🟣 EVENTO TIGO FUTBOL PARAGUAYO 🇵🇾",
         "samples": [
             {
@@ -5155,88 +5237,6 @@
     {
         "name": "🟣 DEPORTE ARGENTINO (Pack 1) disponible para 🇦🇷 🇵🇾",
         "samples": []
-    },
-    {
-        "name": "🟣 DEPORTE ARGENTINO (Pack 2) disponible para 🇦🇷",
-        "samples": [
-            {
-                "name": "ESPN Premiun",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "TNT Sports HD",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/00/TNT_Sports_Logo_%282017%29.png/revision/latest?cb=20180622191406&path-prefix=es",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c79a27f46f44bfbb774b8c7f1f1e57f&key=530fd0cba9dc556a339b03af4b0951b9",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "TyC Sports",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58b7b99c78d841bd841ffcf001a2c397&key=eccfd978965e89e1afe14d7c3b38f7d8",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "FOX Sports",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/cD3CyWC/foxsports.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fdc62b44394044f5929d40ef41f425a1&key=bc88342b7940f2f85dbe698cec2639c5",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "FOX Sports 2",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fb87b63bd6ea4005b66b41cdaca7ba9b&key=bb54f7132fb47d804723ec429ef65c81",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "DeporTV",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/DEPORTV/sa_live_dash/DEPORTV.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=699fee61524a45e58b470ca18a6c251f&key=f45c612f4f5b26151e62fe4ec34bc743",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Golf Channel",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/GOLF_CHANNEL/sa_live_dash/GOLF_CHANNEL.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/PrXS1x2/GOLFC.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=472d5fe5f6ae4063bc9cbd2377076589&key=30210605c23e8b1117c3b5c7701892a7",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            }
-        ]
     },
     {
         "name": "🟣 DEPORTE ARGENTINO (Pack 3) disponible para 🇵🇾",
