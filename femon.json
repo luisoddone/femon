@@ -5342,6 +5342,12 @@
         "name": "🟣 DEPORTE TyC SPORTS (PLAY) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
+                "name": "TyC Sports Play (PLAY 1)",
+                "url": "https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
                 "name": "TyC Sports Play (Natacion)",
                 "url": "https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
                 "type": "HLS",
@@ -5382,12 +5388,6 @@
                 "url": "https://ch01-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-            },
-            {
-                "name": "TyC Sports Play (PLAY 1)",
-                "url": "https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             },
             {
                 "name": "TyC Sports Play (PLAY 2)",
