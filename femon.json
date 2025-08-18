@@ -1530,7 +1530,7 @@
                 }
             },
             {
-                "name": "RPC 🇵🇾",
+                "name": "RPC",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
