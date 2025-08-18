@@ -1696,6 +1696,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Universo TV",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "",
+                    "User-Agent": ""
+                }
             }
         ]
     },
