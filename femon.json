@@ -1332,9 +1332,10 @@
                 }
             },
             {
-                "name": "MEGA TV  PY",
+                "name": "Mega TV  PY",
                 "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
-                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg",
+                "type": "HLS"
             },
             {
                 "name": "PARAGUAY TV FLOW",
