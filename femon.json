@@ -1494,7 +1494,7 @@
         "name": "🟣 CANALES DE PARAGUAY (Pack 2) disponible para 🇵🇾",
         "samples": [
             {
-                "name": "Paravision 🇵🇾",
+                "name": "Paravision",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/Paravision_logo.png?raw=true",
