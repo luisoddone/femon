@@ -5453,6 +5453,12 @@
                 "url": "https://ch05-04-11-tyc.vodgc.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
+                "name": "TyC Sports Play (PLAY 6)",
+                "url": "https://ch06-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             }
         ]
     }
