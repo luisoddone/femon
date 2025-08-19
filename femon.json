@@ -2148,6 +2148,13 @@
         "name": "🟣 DEPORTES FOX SPORTS 🇲🇽 (*) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
+                "name": "FOX Sports Premium",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+                "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
+            },
+            {
                 "name": "FOX Sports 1 MX",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
                 "type": "CLEARKEY",
@@ -2167,13 +2174,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
                 "icono": "https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png"
-            },
-            {
-                "name": "FOX Sports Premium",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-                "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
             }
         ]
     },
