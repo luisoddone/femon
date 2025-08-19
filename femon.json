@@ -1710,6 +1710,13 @@
         "name": "🟣 ​CANALES INTERIOR PARAGUAY disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
+                "name": "Almaya TV Pilar",
+                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/p1o0273sjlfsvcnhxa6dl/tigo2.json?rlkey=9040quxroxwqkrn0gfx9xnmyt&st=gk11qt0h&dl=0",
+                "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
                 "name": "Canal 5 Alberdi",
                 "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
                 "type": "CLEARKEY",
@@ -1742,13 +1749,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
-            },
-            {
-                "name": "Almaya TV Pilar",
-                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/p1o0273sjlfsvcnhxa6dl/tigo2.json?rlkey=9040quxroxwqkrn0gfx9xnmyt&st=gk11qt0h&dl=0",
-                "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
             },
             {
                 "name": "Republica TV",
