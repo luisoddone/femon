@@ -1724,6 +1724,12 @@
                 "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
             },
             {
+                "name": "Mi TV",
+                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
+                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
+                "type": "HLS"
+            },
+            {
                 "name": "Regional TV Yaguaron",
                 "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
                 "type": "CLEARKEY",
@@ -1736,12 +1742,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/WhatsApp%20Image%202025-07-03%20at%2012.58.12.jpeg?raw=true"
-            },
-            {
-                "name": "Mi TV",
-                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
-                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
-                "type": "HLS"
             },
             {
                 "name": "Somos del Este TV",
