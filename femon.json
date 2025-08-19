@@ -91,6 +91,12 @@
                 "url": "",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Paraguay (TyC Sports)",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },
