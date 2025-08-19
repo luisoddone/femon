@@ -1710,7 +1710,7 @@
         "name": "🟣 ​CANALES INTERIOR PARAGUAY disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
-                "name": "ALBERDI CANAL 5",
+                "name": "Canal 5 Alberdi",
                 "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
