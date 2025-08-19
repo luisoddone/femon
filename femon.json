@@ -85,6 +85,12 @@
                 "url": "",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Paraguay (TNT Sports)",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },
