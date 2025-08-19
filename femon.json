@@ -1835,18 +1835,6 @@
                 }
             },
             {
-                "name": "ESPN 2 Sud",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NjQ5NTA4Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTE0YzM2ZWZlNTlmNTlkZCIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1NDc2NzA4LTQ1MyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.AWtXoH_5mHcBWSMr6frZaMuhunpzIMHcg1aJg7yROWaPid0YhLOt097Z7Uldl1obwt0lXj4TxyMJk3L5YRpI6Q==/live/c4eds/ESPN_PY/SA_Live_dash_enc_C/ESPN_PY.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "ESPN 3",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NjQ5NTA4Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTE0YzM2ZWZlNTlmNTlkZCIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1NDc2NzA4LTQ1MyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.AWtXoH_5mHcBWSMr6frZaMuhunpzIMHcg1aJg7yROWaPid0YhLOt097Z7Uldl1obwt0lXj4TxyMJk3L5YRpI6Q==/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
                 "type": "CLEARKEY",
