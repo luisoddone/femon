@@ -1757,9 +1757,10 @@
                 "type": "HLS"
             },
             {
-                "name": "UNION TV",
+                "name": "Union TV",
                 "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
+                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
+                "type": "HLS"
             },
             {
                 "name": "YAGUARON TV",
