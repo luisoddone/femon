@@ -1751,9 +1751,10 @@
                 "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-                "name": "REPÚBLICA TV",
+                "name": "Republica TV",
                 "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png"
+                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
+                "type": "HLS"
             },
             {
                 "name": "UNION TV",
