@@ -4810,7 +4810,7 @@
                 }
             },
             {
-                "name": "ESPN1 ",
+                "name": "ESPN",
                 "url": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
