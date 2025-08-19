@@ -2108,17 +2108,6 @@
                 }
             },
             {
-                "name": "BAND NEWS",
-                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/17936",
-                "type": "HLS",
-                "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
-                "headers": {
-                    "Referer": "https://embedcanaistv.com/",
-                    "Origin": "https://embedcanaistv.com",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "TNT Sports HD",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
                 "type": "CLEARKEY",
@@ -2127,6 +2116,17 @@
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "BAND NEWS",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/17936",
+                "type": "HLS",
+                "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
             },
             {
