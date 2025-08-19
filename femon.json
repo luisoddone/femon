@@ -4918,8 +4918,8 @@
                 }
             },
             {
-                "name": "https://cdn-py.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
-                "url": "https://i.ibb.co/60QvHcnr/R-2.png",
+                "name": "TyC Sports",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
