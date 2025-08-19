@@ -54,7 +54,8 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv"
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
