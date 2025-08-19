@@ -71,7 +71,7 @@
                 }
             },
             {
-                "name": "Evento MLS",
+                "name": "MLS 1",
                 "url": "",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
