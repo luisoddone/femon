@@ -1731,9 +1731,10 @@
                 "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/WhatsApp%20Image%202025-07-03%20at%2012.58.12.jpeg?raw=true"
             },
             {
-                "name": "MI TV",
+                "name": "Mi TV",
                 "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
-                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
+                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
+                "type": "HLS"
             },
             {
                 "name": "SOMOS DEL ESTE TV",
