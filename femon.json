@@ -4662,6 +4662,12 @@
                 "url": "https://v2.tustreaming.cl/tevex/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/MDdFmxd7/logo-tevex-nuevo-2.png"
+            },
+            {
+                "name": "🇨🇱 UESTV",
+                "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png"
             }
         ]
     }
