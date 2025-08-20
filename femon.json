@@ -4280,11 +4280,6 @@
         "name": "🟣 CANALES DE PERU 🇵🇪",
         "samples": [
             {
-                "name": "TVPE NOTICIAS",
-                "icono": "https://i.ibb.co/5gTNNSYr/TV-Per-noticias-2019.png",
-                "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
-            },
-            {
                 "name": "PANAMERICANA",
                 "url": "http://magmaplayer.com/stream/m3u8/AQtlKmRjAwEsZGt2YwR3AF4lAQVhZGR4KmR3AQZjAj/hls/1064.m3u8",
                 "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
