@@ -4280,11 +4280,6 @@
         "name": "🟣 CANALES DE PERU 🇵🇪",
         "samples": [
             {
-                "name": "ATV SUR",
-                "icono": "https://i.ibb.co/cStWXzMz/LnyVa5H.png",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
-            },
-            {
                 "name": "AMERICA",
                 "url": "http://magmaplayer.com/stream/m3u8/BGNkKmZ1KmR2BP4lAQZhZGt0YwR3Ay8kAmDmZQZ/hls/35.m3u8",
                 "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
