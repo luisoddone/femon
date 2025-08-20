@@ -2204,7 +2204,7 @@
         "name": "🟣 DEPORTE SKY SPORTS ⚽",
         "samples": [
             {
-                "name": "SKY SPORTS",
+                "name": "SKY Sports",
                 "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488",
