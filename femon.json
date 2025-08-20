@@ -2084,10 +2084,9 @@
             },
             {
                 "name": "Tigo Sports 3 HD",
-                "url": "https://sam-py-edge01.tigo.com.py/ccur-session/9e8d69f04f904a319af9b6d7dddd4e3d1754244540104b87d2b1934dc4e158a55a1a3a839e7b5Th52ggZXbcLIV4gCdTHqeN6R/out/v1/925422874f0d4d2ebd4cda12b751a484/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-                "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
+                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/857036.ts",
+                "type": "HLS",
+                "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
             }
         ]
     },
