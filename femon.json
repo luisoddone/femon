@@ -4658,6 +4658,12 @@
                 "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/PvpSWFpC/R-4.png"
+            },
+            {
+                "name": "🇨🇱 Stgo TV",
+                "url": "https://stv4.janus.cl/playlist/stream.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/G3ccB8xK/logo-Header.png"
             }
         ]
     }
