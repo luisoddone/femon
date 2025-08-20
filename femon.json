@@ -4747,6 +4747,20 @@
                 "url": "https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/5gTXqgQD/R-3.png"
+            },
+            {
+                "name": "Distrito Comedia",
+                "url": "http://magmaplayer.com/stream/m3u8/AwplKmV5Z18mBP4lAF45BP4kAwEsZGp0Zmt5/hls/293.m3u8",
+                "type": "HLS",
+                "icono": "https://static.wixstatic.com/media/799a49_a4715cf01e4940c69a6e80d16f02103f~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
             }
         ]
     }
