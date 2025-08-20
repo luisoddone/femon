@@ -4423,12 +4423,6 @@
                 }
             },
             {
-                "name": "LatinaTV",
-                "url": "https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8",
-                "type": "HLS",
-                "icono": "https://i0.wp.com/5900.tv/wp-content/uploads/2023/09/latinatvmza.jpg?fit=1280%2C720&ssl=1"
-            },
-            {
                 "name": "Ldm TV La Pampa",
                 "url": "https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd",
                 "type": "CLEARKEY",
