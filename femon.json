@@ -4423,12 +4423,6 @@
                 }
             },
             {
-                "name": "Luque TV",
-                "url": "https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2515/CH_LOGO/160/160/0/0/77974389077126.png"
-            },
-            {
                 "name": "Multivision Cable",
                 "url": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
                 "type": "HLS",
