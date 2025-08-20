@@ -2377,7 +2377,7 @@
                 "type": "HLS"
             },
             {
-                "name": "CDO PREMIUM",
+                "name": "Cdo Premium",
                 "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
                 "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
                 "headers": {
@@ -2388,7 +2388,8 @@
                     "User-Agent": "Magma Player/10",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             }
         ]
     },
