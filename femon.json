@@ -2416,13 +2416,6 @@
                 "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-                "name": "DAZN 3",
-                "url": "https://dtvlivegratis.com/stream.php?stream=disney8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
-            },
-            {
                 "name": "DAZN 4",
                 "url": "http://79.117.39.146:8000/play/a0ln",
                 "type": "CLEARKEY",
