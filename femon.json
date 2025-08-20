@@ -4280,11 +4280,6 @@
         "name": "🟣 CANALES DE PERU 🇵🇪",
         "samples": [
             {
-                "name": "EXITOSA TV",
-                "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-                "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8"
-            },
-            {
                 "name": "TVPE",
                 "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg",
                 "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
