@@ -4905,6 +4905,12 @@
                 "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
                 "type": "HLS",
                 "icono": "https://canal50.tv/public/images/logos/CANAL50_HD"
+            },
+            {
+                "name": "Canal Santa Fe",
+                "url": "https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/BbNXgybh/descarga-10.png"
             }
         ]
     }
