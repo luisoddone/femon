@@ -4415,11 +4415,6 @@
         "name": "🟣 CANALES DE CHILE 🇨🇱",
         "samples": [
             {
-                "name": "CHILEVISION",
-                "icono": "https://i.ibb.co/B27gzhQd/R-3.png",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTE5NDJiZTQ3NDUwLTNmOGEtODdkNC0yOTE5LWJjZTBhNmQ3/master.m3u8"
-            },
-            {
                 "name": "MEGA",
                 "url": "http://magmaplayer.com/stream/m3u8/BGR3KmL1Zy8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/652.m3u8",
                 "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
