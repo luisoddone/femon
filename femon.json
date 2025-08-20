@@ -1635,12 +1635,6 @@
                 "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/dfdfdfdf554.png?raw=true"
             },
             {
-                "name": "Republica TV",
-                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
-                "type": "HLS"
-            },
-            {
                 "name": "Somos del Este TV",
                 "url": "https://live.enhdtv.com:8081/8062/index.m3u8",
                 "type": "CLEARKEY",
