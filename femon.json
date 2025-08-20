@@ -2360,20 +2360,6 @@
                 }
             },
             {
-                "name": "SKY SPORTS LA LIGA",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwH0KmRjAmysZGxjYwR4Av44AP4kAmEsZGp0ZmR5/hls/1079.m3u8",
-                "icono": "https://i.ibb.co/QjdqmjHs/Sky-Sports-La-Liga-II.png",
-                "headers": {
-                    "X-App": "ps",
-                    "X-Version": "10/1.0.9",
-                    "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
-                    "X-Did": "cddfe5e8c019cb3c",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
                 "name": "CLARO SPORTS",
                 "url": "http://magmaplayer.com/stream/m3u8/Zwp1KmVjZI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/201.m3u8",
                 "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
