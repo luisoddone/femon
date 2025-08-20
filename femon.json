@@ -4280,11 +4280,6 @@
         "name": "🟣 CANALES DE PERU 🇵🇪",
         "samples": [
             {
-                "name": "SEÑAL PERU",
-                "icono": "https://i.ibb.co/8LJVjVPV/1q0R6R9.png",
-                "url": "https://livestream.perucast.com/low/stream_low/index.m3u8"
-            },
-            {
                 "name": "ATV ANDINA",
                 "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
                 "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
