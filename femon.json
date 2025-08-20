@@ -4741,12 +4741,6 @@
                 "type": "HLS"
             },
             {
-                "name": "RCN Canal",
-                "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png",
-                "url": "http://190.2.212.209:8050/play/a0lt",
-                "type": "HLS"
-            },
-            {
                 "name": "Red+",
                 "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
                 "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
