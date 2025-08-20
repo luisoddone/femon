@@ -4743,6 +4743,13 @@
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
+                "name": "SKY La Liga",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
+                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+            },
+            {
                 "name": "SKY Sports",
                 "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
                 "type": "CLEARKEY",
@@ -4754,13 +4761,6 @@
                 "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
-                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-            },
-            {
-                "name": "SKY La Liga",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
