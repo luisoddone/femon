@@ -4745,17 +4745,6 @@
                 "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
                 "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
                 "type": "HLS"
-            },
-            {
-                "name": "Win",
-                "url": "https://cdn9.vivozytv.com/hotflix/winplus/index.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/2560px-Win_Sports_nuevo_logo.svg.png",
-                "headers": {
-                    "Referer": "https://envivo1.com/",
-                    "Origin": "https://envivo1.com",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-                }
             }
         ]
     }
