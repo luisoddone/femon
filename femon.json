@@ -4905,6 +4905,13 @@
     },
     {
         "name": "🟣 CANALES DEL INTERIOR DE ARGENTINA (Pack 2) disponible para 🇦🇷 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "Canal 2 Misiones",
+                "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/MZfVwZ45/descarga-25.jpg"
+            }
+        ]
     }
 ]
