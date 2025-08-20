@@ -4666,6 +4666,12 @@
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
                 }
+            },
+            {
+                "name": "🇵🇪 Sol TV",
+                "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/FkfJJLsk/Logo.png"
             }
         ]
     }
