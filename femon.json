@@ -4685,11 +4685,6 @@
         "name": "🟣 CANALES DE MEXICO 🇲🇽",
         "samples": [
             {
-                "name": "AZTECA INTERNACIONAL",
-                "icono": "https://i.ibb.co/3H59M8k/R-2.png",
-                "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
-            },
-            {
                 "name": "ESTRELLA TV",
                 "icono": "https://i.ibb.co/5gTXqgQD/R-3.png",
                 "url": "https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8"
