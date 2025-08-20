@@ -1124,12 +1124,6 @@
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest?cb=20240627181044"
             },
             {
-                "name": "Somos",
-                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/17497.ts",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png"
-            },
-            {
                 "name": "Sptv San Pedro",
                 "url": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8",
                 "type": "HLS",
