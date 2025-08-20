@@ -4390,11 +4390,6 @@
         "name": "🟣 CANALES DE CHILE 🇨🇱",
         "samples": [
             {
-                "name": "TELETRAK",
-                "icono": "https://i.ibb.co/WvX3zcC/teletrack.png",
-                "url": "https://teletraktv.janus.cl/playlist/stream.m3u8"
-            },
-            {
                 "name": "TV SENADO",
                 "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
                 "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
