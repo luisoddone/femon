@@ -4747,12 +4747,6 @@
                 "type": "HLS"
             },
             {
-                "name": "Telecafe",
-                "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
-                "url": "http://190.2.212.209:8050/play/a0ne",
-                "type": "HLS"
-            },
-            {
                 "name": "Canal Capital",
                 "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
                 "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8",
