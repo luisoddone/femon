@@ -4340,12 +4340,6 @@
                 }
             },
             {
-                "name": "Canal 11 Oliva",
-                "url": "https://cdn.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/160/160/0/0/29838770078011.png"
-            },
-            {
                 "name": "Canal 12 Misiones",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MjcyMDUyIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmYwM2RiOWMzZWU4M2E2NSIsInNlc3Npb25faWQiOiI4MTM5MzUyNC0xNzU1MDk5MjUyLTIxNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODEzOTM1MjQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.ESwGQ0XHQb0dhlnAE8PIq2qi8w81x4PckQBEvRy6QWRoYHP2C714HVYsgtoWJRG4jTE2dboOspjWqmhy61vbFA==/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
                 "type": "CLEARKEY",
