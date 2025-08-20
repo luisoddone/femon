@@ -4280,12 +4280,6 @@
         "name": "🟣 CANALES DEL INTERIOR DE ARGENTINA (Pack 1) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
-                "name": "Canal 3 La Pampa",
-                "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
-                "icono": "https://i.postimg.cc/8PMm8fbR/IMG-20250520-WA0024.jpg",
-                "type": "HLS"
-            },
-            {
                 "name": "Canal 3 Las Heras",
                 "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
                 "icono": "https://iili.io/3L9yLdb.jpg",
