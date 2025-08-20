@@ -4668,6 +4668,12 @@
                 "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/vvqpxJVG/R-1.png"
+            },
+            {
+                "name": "🇵🇪 Señal Peru",
+                "url": "https://livestream.perucast.com/low/stream_low/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/8LJVjVPV/1q0R6R9.png"
             }
         ]
     }
