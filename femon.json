@@ -4655,6 +4655,12 @@
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
                 }
+            },
+            {
+                "name": "🇧🇴 Bolivision",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png"
             }
         ]
     }
