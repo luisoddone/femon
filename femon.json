@@ -4776,8 +4776,8 @@
             },
             {
                 "name": "DIRECTV PLUS",
-                "url": "http://38.211.242.128:8001/play/a05h/index.m3u8",
-                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "HLS"
             }
         ]
