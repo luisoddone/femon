@@ -2468,6 +2468,12 @@
                 "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/7832.ts",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+            {
+                "name": "DAZN F1 (ts)",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/158.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
             }
         ]
     },
