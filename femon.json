@@ -2310,7 +2310,7 @@
                 "icono": "https://i.postimg.cc/bw6bmQz4/download-3.png"
             },
             {
-                "name": "BEIN SPORTS Ñ",
+                "name": "Bein Sports Ñ",
                 "url": "http://magmaplayer.com/stream/m3u8/BQxlKmxkKmRmZv4kBGRhZl40Ay8kAmDmZQp/hls/91.m3u8",
                 "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
                 "headers": {
@@ -2321,7 +2321,8 @@
                     "User-Agent": "Magma Player/10",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "BEIN SPORTS EXTRA Ñ",
