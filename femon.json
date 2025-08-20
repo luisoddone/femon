@@ -4663,6 +4663,12 @@
                 "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png"
+            },
+            {
+                "name": "🇨🇱 TVR",
+                "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/mrpXfL9m/R.png"
             }
         ]
     }
