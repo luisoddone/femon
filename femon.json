@@ -4423,12 +4423,6 @@
                 }
             },
             {
-                "name": "Rtv Neuquen",
-                "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
-            },
-            {
                 "name": "San Luis+",
                 "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
                 "type": "HLS",
