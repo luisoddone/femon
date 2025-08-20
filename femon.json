@@ -1033,6 +1033,12 @@
                 "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
             },
             {
+                "name": "Chilecito TV",
+                "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
+                "type": "HLS",
+                "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
+            },
+            {
                 "name": "Coonet Brinkmann",
                 "url": "https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd",
                 "type": "CLEARKEY",
@@ -1042,12 +1048,6 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
-            },
-            {
-                "name": "Chilecito TV",
-                "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
-                "type": "HLS",
-                "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
             },
             {
                 "name": "Cpe La Pampa",
