@@ -4459,11 +4459,6 @@
                 "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
             },
             {
-                "name": "CNN CHILE",
-                "icono": "https://i.ibb.co/znyk1NW/cnn.png",
-                "url": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=55d2a33681917e2f59e1c5892457ff6b&sid=ba5t1l1xb21675155147673ace6c9b300&ndvc=0"
-            },
-            {
                 "name": "BIO BIO TV",
                 "icono": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png",
                 "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45"
