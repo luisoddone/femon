@@ -4759,9 +4759,10 @@
                 "type": "HLS"
             },
             {
-                "name": "CANAL CAPITAL",
+                "name": "Canal Capital",
                 "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
-                "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8"
+                "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8",
+                "type": "HLS"
             },
             {
                 "name": "TELE MEDELLIN",
