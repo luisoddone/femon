@@ -2416,13 +2416,6 @@
                 "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-                "name": "DAZN 4",
-                "url": "http://79.117.39.146:8000/play/a0ln",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
-                "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
-            },
-            {
                 "name": "DAZN F1",
                 "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/437301.ts",
                 "type": "HLS",
