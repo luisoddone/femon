@@ -4745,6 +4745,12 @@
                 "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
                 "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
                 "type": "HLS"
+            },
+            {
+                "name": "🇲🇽 Azteca Internacional",
+                "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/3H59M8k/R-2.png"
             }
         ]
     }
