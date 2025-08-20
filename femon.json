@@ -2332,19 +2332,6 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
             },
             {
-                "name": "TUDN",
-                "url": "http://magmaplayer.com/stream/m3u8/ZGxlKmx1Zy8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/952.m3u8",
-                "icono": "https://i.ibb.co/5XFLRVY0/TUDN-LOGO-COLOR.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
                 "name": "WIN SPORTS",
                 "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
                 "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
