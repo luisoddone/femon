@@ -4655,6 +4655,12 @@
                 "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/whLhXqDv/R-1.png"
+            },
+            {
+                "name": "🇪🇨 Ecuavisa",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png"
             }
         ]
     }
