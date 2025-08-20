@@ -2332,7 +2332,7 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
             },
             {
-                "name": "WIN SPORTS",
+                "name": "Win Sports",
                 "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
                 "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
                 "headers": {
@@ -2343,7 +2343,8 @@
                     "User-Agent": "Magma Player/10",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "WIN SPORTS +",
