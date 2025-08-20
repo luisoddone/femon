@@ -4764,7 +4764,7 @@
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
-                "name": "SKY BUNDESLIGA",
+                "name": "SKY Bundesliga",
                 "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
