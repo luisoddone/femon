@@ -4660,6 +4660,12 @@
                 "url": "https://teletraktv.janus.cl/playlist/stream.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/WvX3zcC/teletrack.png"
+            },
+            {
+                "name": "🇨🇱 TV Senado",
+                "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg"
             }
         ]
     }
