@@ -991,12 +991,6 @@
                 "icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
             },
             {
-                "name": "Canal 11 Oliva",
-                "url": "https://cdn.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/160/160/0/0/29838770078011.png"
-            },
-            {
                 "name": "Canal 12 Tucuman",
                 "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
                 "type": "HLS",
