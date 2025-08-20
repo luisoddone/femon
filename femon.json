@@ -4507,12 +4507,6 @@
                 }
             },
             {
-                "name": "Stream Max Jujuy",
-                "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://static.tvar.io/imagenes/streammax.png"
-            },
-            {
                 "name": "Telediario Televisión",
                 "url": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
                 "type": "CLEARKEY",
