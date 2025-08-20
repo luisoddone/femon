@@ -4659,6 +4659,12 @@
                 "url": "https://stv4.janus.cl/playlist/stream.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/G3ccB8xK/logo-Header.png"
+            },
+            {
+                "name": "🇨🇱 Teletrak",
+                "url": "https://teletraktv.janus.cl/playlist/stream.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/WvX3zcC/teletrack.png"
             }
         ]
     }
