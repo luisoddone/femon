@@ -4670,6 +4670,12 @@
                 "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/C592Sf3C/R-3.png"
+            },
+            {
+                "name": "🇵🇪 ATV Sur",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/cStWXzMz/LnyVa5H.png"
             }
         ]
     }
