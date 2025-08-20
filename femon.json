@@ -2416,12 +2416,6 @@
                 "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-                "name": "DAZN F1",
-                "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/437301.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
                 "name": "FORMULA 1 FULL HD",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "type": "CLEARKEY",
