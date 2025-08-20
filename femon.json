@@ -4390,11 +4390,6 @@
         "name": "🟣 CANALES DE CHILE 🇨🇱",
         "samples": [
             {
-                "name": "TVEX",
-                "icono": "https://i.ibb.co/MDdFmxd7/logo-tevex-nuevo-2.png",
-                "url": "https://v2.tustreaming.cl/tevex/index.m3u8"
-            },
-            {
                 "name": "UESTV",
                 "icono": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png",
                 "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
