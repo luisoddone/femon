@@ -4665,6 +4665,12 @@
                 "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/TMGJfpqN/Novo-Tempo-Logo-Vector-svg.png"
+            },
+            {
+                "name": "🇨🇱 ClickTV",
+                "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png"
             }
         ]
     }
