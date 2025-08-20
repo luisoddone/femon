@@ -2347,7 +2347,7 @@
                 "type": "HLS"
             },
             {
-                "name": "WIN SPORTS +",
+                "name": "Win Sports +",
                 "url": "http://magmaplayer.com/stream/m3u8/ZwV1KmRjAQWsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1042.m3u8",
                 "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
                 "headers": {
@@ -2358,7 +2358,8 @@
                     "User-Agent": "Magma Player/10",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "CLARO SPORTS",
