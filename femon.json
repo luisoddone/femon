@@ -4292,12 +4292,6 @@
                 }
             },
             {
-                "name": "Canal 5 Pico Truncado",
-                "url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8",
-                "icono": "https://i.postimg.cc/k5yTs423/IMG-20250520-WA0025.jpg",
-                "type": "HLS"
-            },
-            {
                 "name": "Canal 6 Posadas",
                 "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
                 "type": "HLS",
