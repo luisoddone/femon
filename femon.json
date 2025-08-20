@@ -4517,11 +4517,6 @@
         "name": "🟣 CANALES DE ECUADOR 🇪🇨",
         "samples": [
             {
-                "name": "ECUAVISA",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
-            },
-            {
                 "name": "TELEAMAZONAS",
                 "url": "http://magmaplayer.com/stream/m3u8/ZwZ3Kmt2A18kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/867.m3u8",
                 "icono": "https://i.ibb.co/BVGGqzx4/R.png",
