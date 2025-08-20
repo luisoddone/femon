@@ -4887,6 +4887,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Tvco General Pico",
+                "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://www.corpico.com.ar/static/img/tvco-vivo.png"
             }
         ]
     }
