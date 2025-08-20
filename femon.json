@@ -4747,12 +4747,6 @@
                 "type": "HLS"
             },
             {
-                "name": "El Trece",
-                "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
-                "url": "http://190.2.212.209:8050/play/a0nf",
-                "type": "HLS"
-            },
-            {
                 "name": "Win",
                 "url": "https://cdn9.vivozytv.com/hotflix/winplus/index.m3u8",
                 "type": "HLS",
