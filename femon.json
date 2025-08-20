@@ -4654,6 +4654,12 @@
                 "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
+            },
+            {
+                "name": "🇪🇨 Ecuador TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png"
             }
         ]
     }
