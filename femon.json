@@ -4388,13 +4388,7 @@
     },
     {
         "name": "🟣 CANALES DE CHILE 🇨🇱",
-        "samples": [
-            {
-                "name": "CLICKTV",
-                "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
-                "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-            }
-        ]
+        "samples": []
     },
     {
         "name": "🟣 CANALES INTERNACIONALES 🛄",
