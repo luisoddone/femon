@@ -4905,6 +4905,12 @@
                 "url": "https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8",
                 "type": "HLS",
                 "icono": "http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"
+            },
+            {
+                "name": "Canal 9 Rio Cuarto",
+                "url": "https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8",
+                "type": "HLS",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcmiYzNwzn89j7ks8I1vYHGd0oyNLWh3d_R0NFMD-WCiN-udg2juUYvOvmbuXN2HN4tErMp1AdPpQND4TMa6JQgBQGfUYWjYudy5oYj87_3tyrRgrMbtUjwIElxsTCadryU7el078PbU/s1600/canal9-rcuarto.png"
             }
         ]
     }
