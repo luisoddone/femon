@@ -4292,12 +4292,6 @@
                 }
             },
             {
-                "name": "Canal 4 Jujuy",
-                "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8",
-                "type": "HLS",
-                "icono": "http://static.tvar.io/imagenes/canal4jujuy.png"
-            },
-            {
                 "name": "Canal 4 San Juan",
                 "url": "http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
                 "type": "HLS",
