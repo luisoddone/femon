@@ -4390,11 +4390,6 @@
         "name": "🟣 CANALES DE CHILE 🇨🇱",
         "samples": [
             {
-                "name": "PORTAL TV",
-                "icono": "https://i.ibb.co/PvpSWFpC/R-4.png",
-                "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8"
-            },
-            {
                 "name": "STGO TV",
                 "icono": "https://i.ibb.co/G3ccB8xK/logo-Header.png",
                 "url": "https://stv4.janus.cl/playlist/stream.m3u8"
