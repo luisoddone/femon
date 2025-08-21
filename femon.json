@@ -5500,6 +5500,12 @@
                 "url": "https://server.laradio.online/proxy/jorge_benitez?mp=/stream",
                 "type": "HLS",
                 "icono": "https://play-lh.googleusercontent.com/SGbp_nQT2GVKBwNwgaGOSxUJxEBkNYLmm8QlMOwHtu_CCcEBO-Y2rdb9z9Rzikn5uHzM"
+            },
+            {
+                "name": "FM Cordoba",
+                "url": "https://liveradio.mediainbox.net/fmcordoba.mp3",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg"
             }
         ]
     }
