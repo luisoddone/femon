@@ -4628,6 +4628,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Universal Channel",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
