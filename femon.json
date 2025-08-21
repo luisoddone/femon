@@ -5265,6 +5265,12 @@
                 "url": "http://190.60.40.35:12500/play/a0kx/index.m3u8",
                 "type": "HLS",
                 "icono": "https://m.media-amazon.com/images/I/81KzmNNBJWL._SL500_.jpg"
+            },
+            {
+                "name": "Red Advenir*",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
             }
         ]
     }
