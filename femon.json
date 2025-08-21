@@ -5524,6 +5524,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
                 "type": "HLS",
                 "icono": "https://cloudfront-arc.cienradios.com/la100/logo/logoog.png"
+            },
+            {
+                "name": "La Red",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
             }
         ]
     }
