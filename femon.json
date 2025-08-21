@@ -2062,6 +2062,41 @@
         ]
     },
     {
+        "name": "🟣 DEPORTES TyC SPORTS (PLAY) disponible para 🇦🇷 🇵🇾",
+        "samples": [
+            {
+                "name": "TyC Sports Play (PLAY 1)",
+                "url": "https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
+                "name": "TyC Sports Play (PLAY 2)",
+                "url": "https://ch09-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
+                "name": "TyC Sports Play (PLAY 3)",
+                "url": "https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
+                "name": "TyC Sports Play (PLAY 4)",
+                "url": "https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_9.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
+                "name": "TyC Sports Play (PLAY 5)",
+                "url": "https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            }
+        ]
+    },
+    {
         "name": "🟣 DEPORTE FOX SPORTS 🇲🇽 (*) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
@@ -4581,41 +4616,6 @@
                 "url": "https://ch07-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-            }
-        ]
-    },
-    {
-        "name": "🟣 DEPORTES TyC SPORTS (PLAY) disponible para 🇦🇷 🇵🇾",
-        "samples": [
-            {
-                "name": "TyC Sports Play (PLAY 1)",
-                "url": "https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-            },
-            {
-                "name": "TyC Sports Play (PLAY 2)",
-                "url": "https://ch09-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-            },
-            {
-                "name": "TyC Sports Play (PLAY 3)",
-                "url": "https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-            },
-            {
-                "name": "TyC Sports Play (PLAY 4)",
-                "url": "https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_9.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-            },
-            {
-                "name": "TyC Sports Play (PLAY 5)",
-                "url": "https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             }
         ]
     }
