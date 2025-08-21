@@ -5068,6 +5068,12 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "Disney Junior",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/DISNEY_JR/sa_live_dash/DISNEY_JR.mpd",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/MyL3yR7b/DISNEY-JUNIOR.png"
             }
         ]
     }
