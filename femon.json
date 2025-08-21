@@ -4813,6 +4813,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "AXN",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/at6y20q6gjy47ufxbewtx/axn.json?rlkey=nimgylj6o4j7m0w0uyu0kb1lk&st=fqyxzvwe&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
