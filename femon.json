@@ -5614,6 +5614,12 @@
                 "url": "https://liveradio.mediainbox.net/popular.mp3",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/074/fm-popular-891.0ee1b784.png"
+            },
+            {
+                "name": "Radio Unica",
+                "url": "https://streaming2.mundoradio.com.ar/8504/stream",
+                "type": "HLS",
+                "icono": "https://web.whatsapp.com/cffdf920-2c5b-48cf-8159-6b7c7ed68952"
             }
         ]
     }
