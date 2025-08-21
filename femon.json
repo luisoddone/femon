@@ -4558,18 +4558,6 @@
                 }
             },
             {
-                "name": "TBS",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
-                "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "A3SERIES",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd",
                 "type": "CLEARKEY",
