@@ -18,12 +18,6 @@
                     "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Inter Miami",
-                "url": "http://flx.lat:8080//live/Goldentv675/Tv54794t5656tv/317423.ts",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
         ]
     },
