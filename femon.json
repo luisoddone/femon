@@ -4880,6 +4880,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Food Network",
+                "url": "http://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": ""
+                }
             }
         ]
     }
