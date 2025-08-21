@@ -4813,6 +4813,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Space HD",
+                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://dl.dropbox.com/scl/fi/av6s3gkg1jguedik4i8kw/space.json?rlkey=98yz8gqxu6wf7d7slcmn7etgg&st=4e6u289t&dl=0",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
