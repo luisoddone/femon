@@ -4635,7 +4635,7 @@
             },
             {
                 "name": "Band BRASIL",
-                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/js/embedtv.js?v=44",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d6e59256ee38f2e630e39771e35423f4.m3u8",
                 "type": "HLS",
                 "icono": "https://reidoscanais.life/img/band.png",
                 "headers": {
