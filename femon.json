@@ -5679,6 +5679,12 @@
                 "url": "https://musicsrc.cvattv.com.ar/RM14",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Musica Electrónica",
+                "url": "https://musicsrc.cvattv.com.ar/RM41",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     }
