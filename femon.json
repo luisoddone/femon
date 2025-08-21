@@ -4563,6 +4563,18 @@
         "name": "🟣 CANALES DE PELICULAS Y SERIES (Pack 2) disponible para 🇵🇾",
         "samples": [
             {
+                "name": "A3Cine",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+                }
+            },
+            {
                 "name": "A3Series",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd",
                 "type": "CLEARKEY",
@@ -4800,18 +4812,6 @@
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "A3Cine",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
                 }
             }
         ]
