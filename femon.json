@@ -5470,6 +5470,12 @@
                 "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
+            },
+            {
+                "name": "Blue FM 100.7",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+                "type": "HLS",
+                "icono": "https://myradioenvivo.ar/public/uploads/radio_img/blue-fm-100-7/play_250_250.webp"
             }
         ]
     }
