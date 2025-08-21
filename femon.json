@@ -5639,6 +5639,12 @@
         "name": "🟣 MUSICA ONLINE (🔊) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
+                "name": "Musica de los 70's",
+                "url": "https://musicsrc.cvattv.com.ar/RM07",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
                 "name": "Musicade los 90's",
                 "url": "https://musicsrc.cvattv.com.ar/RM04",
                 "type": "HLS",
@@ -5647,12 +5653,6 @@
             {
                 "name": "Musica de los 80's",
                 "url": "https://musicsrc.cvattv.com.ar/RM05",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
-            },
-            {
-                "name": "Musica de los 70's",
-                "url": "https://musicsrc.cvattv.com.ar/RM07",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
