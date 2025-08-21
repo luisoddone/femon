@@ -5146,6 +5146,12 @@
                 "url": "http://flx.lat:8080/Goldentv675/Tv54794t5656tv/126485",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/S48tv2qb/R-4.png"
+            },
+            {
+                "name": "Futurama (24/7)",
+                "url": "http://flx.lat:8080/Goldentv675/Tv54794t5656tv/126518",
+                "type": "HLS",
+                "icono": "https://images.justwatch.com/poster/320490395/s718/futurama.jpg"
             }
         ]
     }
