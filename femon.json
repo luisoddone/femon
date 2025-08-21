@@ -5542,6 +5542,12 @@
                 "url": "https://radio16.servidorderadio.net:8662/stream",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/810/radio-portena.25907c31.png"
+            },
+            {
+                "name": "Pop Radio 101.5",
+                "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png"
             }
         ]
     }
