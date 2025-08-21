@@ -4558,18 +4558,6 @@
                 }
             },
             {
-                "name": "PARAMOUNT",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_C/Paramount.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/flrhpsx2oimr1pc5dxuim/paramount.json?rlkey=sccigkhv0249hv6hd92iif61v&st=ia56xqs3&dl=0",
-                "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "A3CINE",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd",
                 "type": "CLEARKEY",
