@@ -15,17 +15,6 @@
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             },
             {
-                "name": "MLS 3",
-                "url": "https://ym9yzq.fubohd.com/espn2/mono.m3u8?token=91d464ef157cbcf217e11a02c544a36948229f82-35-1755530183-1755512183",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true",
-                "headers": {
-                    "Origin": "https://la14hd.com",
-                    "Referer": "https://la14hd.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "Independiente Rivadavia 🆚 Boca Juniors",
                 "url": "https://daiv18j8.s3.eu-west-1.amazonaws.com/hls/stream21/index.m3u8",
                 "type": "HLS",
