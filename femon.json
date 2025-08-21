@@ -5482,6 +5482,12 @@
                 "url": "https://srv10.streamingradio.ar:8014/stream?type=http&nocache=22",
                 "type": "HLS",
                 "icono": "https://play-lh.googleusercontent.com/5IE-yamV2Aiu90jKd9YZMN4jvdGiO2B2yN3hWGA8xUiLcBnOkPHwCxRUr99WfDD3t8Pf"
+            },
+            {
+                "name": "Cadena Tres",
+                "url": "https://liveradio.mediainbox.net/radio3.mp3",
+                "type": "HLS",
+                "icono": "https://www.cadena3.com/img/conductores-placas/generica.jpg"
             }
         ]
     }
