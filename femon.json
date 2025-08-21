@@ -4858,6 +4858,13 @@
                 }
             },
             {
+                "name": "RCN + (m)",
+                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
                 "name": "Telemundo",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
                 "type": "CLEARKEY",
@@ -4892,13 +4899,6 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "RCN + (m)",
-                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
             }
         ]
     }
