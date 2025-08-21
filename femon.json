@@ -4847,6 +4847,13 @@
     },
     {
         "name": "🟣 PACK PREMIUM UNIVERSAL (Pack 2) disponible para 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "Universal Cinema",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]
