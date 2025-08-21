@@ -4620,7 +4620,7 @@
         ]
     },
     {
-        "name": "Canales de Brasil",
+        "name": "🟣 CANALES DE BRASIL",
         "samples": [
             {
                 "name": "Globo Sao Paulo",
@@ -4702,7 +4702,7 @@
         ]
     },
     {
-        "name": "Deportes Brasil",
+        "name": "🟣 DEPORTE BRASIL ⚽🇧🇷",
         "samples": [
             {
                 "name": "Premiere 1",
@@ -4712,7 +4712,119 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                }
+            },
+            {
+                "name": "Premiere 2",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/27462f29aba0c419570626ac45202f07.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+			    }
+            },
+            {		
+                "name": "Premiere 3",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a608a4770226682a40301b5074ad27fc.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                }
+            },
+            {
+                "name": "Premiere 4",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7f335d7e92b5f1a2914578965255a330.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+					
+                }
+            },
+            {
+                "name": "Premiere 5",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d4104454bbe3935b2db1e19fd9b018b6.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+			    }
+            },
+            {		
+                "name": "Premiere 6",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/c17b784094efb4dfd28f582641e198ab.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                }
+            },
+            {
+                "name": "Premiere 7",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/560896ef56615b89c932be0c5cd18b73.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+					
+                }
+            },
+            {
+                "name": "Premiere 8",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/66f0d9ef19678f59832ad22cd985de76.m3u8",
+                "type": "HLS",
+                "icono": "https://reidoscanais.life/img/premiere.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+                }
+            },
+            {
+                "name": "Sport tv 1",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3c040e9bd078fba97779c907ed023b30.m3u8",
+                "type": "HLS",
+                "icono": "https://i.imgur.com/eHJ8Vm3.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+			    }
+            },
+            {		
+                "name": "Sport tv 2",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7e5decb62137fe6620d87cc85c166669.m3u8",
+                "type": "HLS",
+                "icono": "https://i.imgur.com/eHJ8Vm3.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                }
+            },
+            {
+                "name": "Sport tv 3",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/151a6c4ffb8aaaa0d713bfa2cea5ef5b.m3u8",
+                "type": "HLS",
+                "icono": "https://i.imgur.com/eHJ8Vm3.png",
+                "headers": {
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
                 }
             }
         ]
