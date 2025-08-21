@@ -4822,7 +4822,7 @@
                 }
             },
             {
-                "name": "TASTEMADE",
+                "name": "Tastemade (m)",
                 "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
