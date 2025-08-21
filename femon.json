@@ -4748,18 +4748,6 @@
         "name": "🟣 PACK PREMIUM UNIVERSAL (Pack 1) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
-                "name": "UNIVERSAL CINEMA",
-                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "UNIVERSAL CINEMA opcion 2",
                 "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
                 "type": "CLEARKEY",
