@@ -5530,6 +5530,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
+            },
+            {
+                "name": "LU5 de Neuquén",
+                "url": "https://live.lu5am.com:8443/LU5?type=.mp3&_=1",
+                "type": "HLS",
+                "icono": "https://lu5am.com/wp-content/uploads/2022/05/lu5-150x150.png"
             }
         ]
     }
