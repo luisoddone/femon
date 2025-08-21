@@ -4892,6 +4892,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "TNT Novelas",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
