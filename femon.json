@@ -4628,6 +4628,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "TNT",
+                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
