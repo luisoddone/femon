@@ -5602,6 +5602,12 @@
                 "url": "https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/radiomitre-logo-500x353.png"
+            },
+            {
+                "name": "Radio Nacional",
+                "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
+                "type": "HLS",
+                "icono": "https://www.argentina.gob.ar/sites/default/files/2022/07/web-smycp_nacional01_3.png"
             }
         ]
     }
