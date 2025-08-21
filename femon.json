@@ -4834,6 +4834,18 @@
         "name": "🟣 CANALES DE NOVELAS (Pack 2) disponible para 🇵🇾",
         "samples": [
             {
+                "name": "Canal de Las Estrellas",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/670/CH_LOGO/60/40/0/0/74835190079.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Pasiones",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd",
                 "type": "CLEARKEY",
@@ -4875,18 +4887,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Canal de Las Estrellas",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/670/CH_LOGO/60/40/0/0/74835190079.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
