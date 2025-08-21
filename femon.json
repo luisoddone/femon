@@ -5464,6 +5464,13 @@
     },
     {
         "name": "🟣 RADIOS ONLINE (📻) disponible para 🇦🇷 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "AM 910",
+                "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
+            }
+        ]
     }
 ]
