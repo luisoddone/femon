@@ -4645,10 +4645,10 @@
                 }
             },
             {
-                "name": "Band",
-                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d6e59256ee38f2e630e39771e35423f4.m3u8",
+                "name": "SBT",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/6bbda1e5c78017bbf2b2e27a20dc085e.m3u8",
                 "type": "HLS",
-                "icono": "https://reidoscanais.life/img/band.png",
+                "icono": "https://reidoscanais.life/img/sbt.png",
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
@@ -4656,10 +4656,10 @@
                 }
             },
             {
-                "name": "SBT",
-                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/6bbda1e5c78017bbf2b2e27a20dc085e.m3u8",
+                "name": "Band",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d6e59256ee38f2e630e39771e35423f4.m3u8",
                 "type": "HLS",
-                "icono": "https://reidoscanais.life/img/sbt.png",
+                "icono": "https://reidoscanais.life/img/band.png",
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
