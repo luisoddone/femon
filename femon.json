@@ -4880,6 +4880,13 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Tastemade (m)",
+                "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017"
             }
         ]
     }
