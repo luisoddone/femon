@@ -5590,6 +5590,12 @@
                 "url": "https://streaming2.mundoradio.com.ar/8512/stream",
                 "type": "HLS",
                 "icono": "https://web.whatsapp.com/076404d1-ee06-4770-83da-a75cf80255e8"
+            },
+            {
+                "name": "Radio Mia",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac",
+                "type": "HLS",
+                "icono": "https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg"
             }
         ]
     }
