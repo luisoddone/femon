@@ -5560,6 +5560,12 @@
                 "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg"
+            },
+            {
+                "name": "Radio del Sur",
+                "url": "https://cnnsanjuan.com:9999/icecast/radiodelsuraudio/icecast.audio",
+                "type": "HLS",
+                "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-del-sur/fb_cover.jpg"
             }
         ]
     }
