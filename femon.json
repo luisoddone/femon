@@ -5566,6 +5566,12 @@
                 "url": "https://cnnsanjuan.com:9999/icecast/radiodelsuraudio/icecast.audio",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-del-sur/fb_cover.jpg"
+            },
+            {
+                "name": "Radio Disney",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+                "type": "HLS",
+                "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-disney/fb_cover.jpg"
             }
         ]
     }
