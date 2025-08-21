@@ -5389,6 +5389,13 @@
     },
     {
         "name": "🟣 CANALES MUSICALES (*) disponible para 🇦🇷 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "Fuente Estereo",
+                "url": "http://190.60.40.35:12500/play/a0mq/index.m3u8",
+                "type": "HLS",
+                "icono": "https://api.teveo.com.co/1.1/node/poster?x=AgA1AAkF"
+            }
+        ]
     }
 ]
