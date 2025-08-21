@@ -4712,7 +4712,7 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             },
             {
@@ -4724,9 +4724,9 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-			    }
+                }
             },
-            {		
+            {
                 "name": "Premiere 3",
                 "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a608a4770226682a40301b5074ad27fc.m3u8",
                 "type": "HLS",
@@ -4734,7 +4734,7 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             },
             {
@@ -4746,7 +4746,6 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-					
                 }
             },
             {
@@ -4758,9 +4757,9 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-			    }
+                }
             },
-            {		
+            {
                 "name": "Premiere 6",
                 "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/c17b784094efb4dfd28f582641e198ab.m3u8",
                 "type": "HLS",
@@ -4768,7 +4767,7 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             },
             {
@@ -4780,7 +4779,6 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-					
                 }
             },
             {
@@ -4803,9 +4801,9 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-			    }
+                }
             },
-            {		
+            {
                 "name": "Sport tv 2",
                 "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7e5decb62137fe6620d87cc85c166669.m3u8",
                 "type": "HLS",
@@ -4813,7 +4811,7 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             },
             {
@@ -4824,7 +4822,7 @@
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             }
         ]
