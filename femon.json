@@ -5572,6 +5572,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-disney/fb_cover.jpg"
+            },
+            {
+                "name": "Radio Master 96.7",
+                "url": "https://emisora.radiosplay.com.ar/8102/stream",
+                "type": "HLS",
+                "icono": "https://radiomaster967.com.ar/wp-content/uploads/2023/05/LOGO-Master-FM-2023.png"
             }
         ]
     }
