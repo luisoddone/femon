@@ -5620,6 +5620,12 @@
                 "url": "https://streaming2.mundoradio.com.ar/8504/stream",
                 "type": "HLS",
                 "icono": "https://web.whatsapp.com/cffdf920-2c5b-48cf-8159-6b7c7ed68952"
+            },
+            {
+                "name": "Rivadavia",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
+                "type": "HLS",
+                "icono": "https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630.jpg"
             }
         ]
     }
