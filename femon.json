@@ -4822,11 +4822,11 @@
                 }
             },
             {
-                "name": "E-Entertaiment",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
+                "name": "Discovery World",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://genterosarevista.wordpress.com/wp-content/uploads/2011/05/e_entertainment_tv.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
+                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
@@ -4834,11 +4834,11 @@
                 }
             },
             {
-                "name": "Discovery World",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
+                "name": "E-Entertaiment",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
+                "icono": "https://genterosarevista.wordpress.com/wp-content/uploads/2011/05/e_entertainment_tv.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
