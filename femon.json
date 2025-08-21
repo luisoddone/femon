@@ -5596,6 +5596,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg"
+            },
+            {
+                "name": "Radio Mitre Jujuy",
+                "url": "https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/radiomitre-logo-500x353.png"
             }
         ]
     }
