@@ -4904,6 +4904,19 @@
     },
     {
         "name": "🟣 CANALES CULTURALES (Pack 2) disponible para 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "Animal Planet",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
     }
 ]
