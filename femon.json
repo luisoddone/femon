@@ -5626,6 +5626,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
                 "type": "HLS",
                 "icono": "https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630.jpg"
+            },
+            {
+                "name": "Vale 97.5",
+                "url": "https://vale.stweb.tv/vale/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static.mytuner.mobi/media/tvos_radios/840/radio-vale-975-fm.b167bdb2.png"
             }
         ]
     }
