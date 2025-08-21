@@ -3,6 +3,12 @@
         "name": "⚽ FUTBOL IMPORTANTE EN VIVO ⚽(Activo cuando hay transmisiones exclusivas) ®️",
         "samples": [
             {
+                "name": "OPC 1 Independiente 🆚 Universidad de Chile",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
+                "type": "HLS",
+                "icono": "Independiente Rivadavia 🆚 Boca Juniors"
+            },
+            {
                 "name": "Inter Miami",
                 "url": "http://fullgo.xyz:8880/Todoen1824/Fbs72@9237Na2/443562",
                 "type": "HLS",
@@ -24,12 +30,6 @@
                     "Referer": "https://elverruca.tech",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "OPC 1 Independiente 🆚 Universidad de Chile",
-                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
-                "type": "HLS",
-                "icono": "Independiente Rivadavia 🆚 Boca Juniors"
             }
         ]
     },
