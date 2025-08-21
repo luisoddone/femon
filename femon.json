@@ -4647,6 +4647,18 @@
                 }
             },
             {
+                "name": "FX",
+                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/5LvDcdV/587595.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywe5hxd5zwa81ecnk2inw/fx.json?rlkey=p1sr3mjvdxjslzh4sirsbxhlg&st=a9zlu9jf&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Golden",
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
                 "type": "CLEARKEY",
@@ -4748,18 +4760,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://dl.dropbox.com/scl/fi/av6s3gkg1jguedik4i8kw/space.json?rlkey=98yz8gqxu6wf7d7slcmn7etgg&st=4e6u289t&dl=0",
                 "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "FX HD",
-                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/5LvDcdV/587595.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywe5hxd5zwa81ecnk2inw/fx.json?rlkey=p1sr3mjvdxjslzh4sirsbxhlg&st=a9zlu9jf&dl=0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
