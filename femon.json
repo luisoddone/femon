@@ -89,15 +89,14 @@
                 }
             },
             {
-                "name": "El Trece",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1ODIyMTg2Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGQxYjRkMjhkYWNmODNhNyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1NjQ5Mzg2LTIyMiIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSw4Niw4OF19.9UqQ_uYpcKbBOTsMLYpTjyL-lp8eJdL0p4ilypLfWGBUD1kO9MbhitfMU5BC3dykFfytLl0L9Su5sNL1lR_HOA==//live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+                "name": "Independiente 🆚 Universidad de Chile",
+                "url": "https://atcvu0fd.s3.eu-west-1.amazonaws.com/hls/stream5/index.m3u8",
+                "type": "HLS",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqzfg1dY2LYiG79kKrAYkUVjwndF9wro3XUZwjBgCCYy4R_0QhRFNiSZUAvpXnUkQuV99zSvxhCE7gfwfUtiEhUchllrSfaLEt-tiwh4hPZ1fuOpRevWrGQWdIp7i4Nh1ncf5jOi-xzqZ3BuvobQa2L-jAs4bBVJytqHCA6ThzF6E9m-XbRHi8J0iGS40/w438-h242-p-k-no-nu/Independiente%20X%20Universidad%20de%20Chile.png=w72-h72-p-k-no-nu",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
             },
             {
