@@ -4635,6 +4635,18 @@
                 }
             },
             {
+                "name": "Comedy Central",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Golden",
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
                 "type": "CLEARKEY",
@@ -4772,18 +4784,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Comedy Central",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
