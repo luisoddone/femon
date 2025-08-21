@@ -4667,10 +4667,10 @@
                 }
             },
             {
-                "name": "Rede TV",
-                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/85f8769440a1d86740041cd60fd9e6e4.m3u8",
+                "name": "Band Sports",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3d4a8dbaa23b3dbf87ed1a68926539ec.m3u8",
                 "type": "HLS",
-                "icono": "https://embedtv.digital/assets/images/record.png",
+                "icono": "https://i.imgur.com/EuPvzJe.png",
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
@@ -4678,10 +4678,10 @@
                 }
             },
             {
-                "name": "Band Sports",
-                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3d4a8dbaa23b3dbf87ed1a68926539ec.m3u8",
+                "name": "Rede TV",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/85f8769440a1d86740041cd60fd9e6e4.m3u8",
                 "type": "HLS",
-                "icono": "https://i.imgur.com/EuPvzJe.png",
+                "icono": "https://embedtv.digital/assets/images/record.png",
                 "headers": {
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
