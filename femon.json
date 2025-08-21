@@ -5506,6 +5506,12 @@
                 "url": "https://liveradio.mediainbox.net/fmcordoba.mp3",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg"
+            },
+            {
+                "name": "FM Rock & Pop",
+                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png"
             }
         ]
     }
