@@ -4673,18 +4673,6 @@
                 }
             },
             {
-                "name": "HGTV",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/8417/CH_LOGO/60/40/0/0/60015425071531.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "HGTV OPCION 2",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1ODIzODY5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzljNWY0MjFkYzZkZmI4MSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1NjUxMDcwLTEwMSIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODZdfQ==.u82IBiMo5JW2bcJYZsW-lMLnvDFX2jlOS0vqkZ5MHNXQbILQVQD1AZQ4sfbTbDBTvdWStk1QGbjzJ4veOJOybA==//live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
                 "type": "CLEARKEY",
