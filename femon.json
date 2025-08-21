@@ -5548,6 +5548,12 @@
                 "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png"
+            },
+            {
+                "name": "Radio 10",
+                "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo-radio10.svg/1200px-Logo-radio10.svg.png"
             }
         ]
     }
