@@ -4743,6 +4743,18 @@
                 }
             },
             {
+                "name": "TCM",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Warner Channel",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
                 "type": "CLEARKEY",
@@ -4760,18 +4772,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TCM",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
