@@ -5488,6 +5488,12 @@
                 "url": "https://liveradio.mediainbox.net/radio3.mp3",
                 "type": "HLS",
                 "icono": "https://www.cadena3.com/img/conductores-placas/generica.jpg"
+            },
+            {
+                "name": "DSports Radio",
+                "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO",
+                "type": "HLS",
+                "icono": "https://static.mytuner.mobi/media/tvos_radios/329/d-sports.4f470dc8.png"
             }
         ]
     }
