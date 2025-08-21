@@ -3022,6 +3022,83 @@
         ]
     },
     {
+        "name": "🟣 PACK PREMIUM HBO (Pack 2) disponible para 🇵🇾",
+        "samples": [
+            {
+                "name": "HBO",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO Family",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO Mundi",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/17ti0ndndqzl5d0zvhe1c/hbomundi.json?rlkey=yshhz1e4xagupfwv70z3fago5&st=fmhrdxq4&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO Signature",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO Xtreme",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/4d1rl72v4repqt3pymuxv/hboextreme.json?rlkey=pfvr66em9njnmdd7wd1qz4ahp&st=iffldnx6&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "🟣 PACK PREMIUM UNIVERSAL (Pack 1) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
@@ -4764,83 +4841,6 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-                }
-            }
-        ]
-    },
-    {
-        "name": "🟣 PACK PREMIUM HBO (Pack 2) disponible para 🇵🇾",
-        "samples": [
-            {
-                "name": "HBO",
-                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO 2",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO Family",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO Mundi",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/17ti0ndndqzl5d0zvhe1c/hbomundi.json?rlkey=yshhz1e4xagupfwv70z3fago5&st=fmhrdxq4&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO Signature",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO Xtreme",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/4d1rl72v4repqt3pymuxv/hboextreme.json?rlkey=pfvr66em9njnmdd7wd1qz4ahp&st=iffldnx6&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
