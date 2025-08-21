@@ -4760,18 +4760,6 @@
                 }
             },
             {
-                "name": "UNIVERSAL CRIME",
-                "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-                "url": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "UNIVERSAL CRIME opcion 2",
                 "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
                 "type": "CLEARKEY",
