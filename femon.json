@@ -4628,6 +4628,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Warner Channel",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
