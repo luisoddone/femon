@@ -5494,6 +5494,12 @@
                 "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/329/d-sports.4f470dc8.png"
+            },
+            {
+                "name": "Estacion 21",
+                "url": "https://server.laradio.online/proxy/jorge_benitez?mp=/stream",
+                "type": "HLS",
+                "icono": "https://play-lh.googleusercontent.com/SGbp_nQT2GVKBwNwgaGOSxUJxEBkNYLmm8QlMOwHtu_CCcEBO-Y2rdb9z9Rzikn5uHzM"
             }
         ]
     }
