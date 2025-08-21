@@ -4635,12 +4635,12 @@
             },
             {
                 "name": "Band",
-                "url": "https://reidoscanais.life/embed/?id=band",
+                "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/js/embedtv.js?v=44",
                 "type": "HLS",
                 "icono": "https://reidoscanais.life/img/band.png",
                 "headers": {
-                    "Origin": "https://reidoscanais.life",
-                    "Referer": "https://reidoscanais.life/",
+                    "Origin": "https://embedtv-3.icu",
+                    "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
             },
