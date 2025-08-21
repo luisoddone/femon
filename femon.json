@@ -5401,6 +5401,17 @@
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
+            },
+            {
+                "name": "Mi Música Romántica",
+                "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0f1be10d0519e0c453105f01319fe407&key=9976d91bfcdc7dd2148d36af89027762",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     }
