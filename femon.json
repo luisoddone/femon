@@ -5134,6 +5134,12 @@
                 "url": "http://flx.lat:8080/Goldentv675/Tv54794t5656tv/126500",
                 "type": "HLS",
                 "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4"
+            },
+            {
+                "name": "Dragon Ball (24/7)",
+                "url": "http://venuschiletv.lat:8880/yerkorestream82@83/ydvdZWqe7CDX/305937",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/dragonball/images/4/42/Dragon_Ball_Super_Broly_logo_Hispanoam%C3%A9rica.png/revision/latest?cb=20181121024822&path-prefix=es"
             }
         ]
     }
