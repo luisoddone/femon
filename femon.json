@@ -5667,6 +5667,12 @@
                 "url": "https://musicsrc.cvattv.com.ar/RM25",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Musica 100% Clasicos",
+                "url": "https://musicsrc.cvattv.com.ar/RM03",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     }
