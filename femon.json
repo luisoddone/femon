@@ -5476,6 +5476,12 @@
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/blue-fm-100-7/play_250_250.webp"
+            },
+            {
+                "name": "Cadena Alegria Mendoza",
+                "url": "https://srv10.streamingradio.ar:8014/stream?type=http&nocache=22",
+                "type": "HLS",
+                "icono": "https://play-lh.googleusercontent.com/5IE-yamV2Aiu90jKd9YZMN4jvdGiO2B2yN3hWGA8xUiLcBnOkPHwCxRUr99WfDD3t8Pf"
             }
         ]
     }
