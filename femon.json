@@ -5578,6 +5578,12 @@
                 "url": "https://emisora.radiosplay.com.ar/8102/stream",
                 "type": "HLS",
                 "icono": "https://radiomaster967.com.ar/wp-content/uploads/2023/05/LOGO-Master-FM-2023.png"
+            },
+            {
+                "name": "Radio El Destape",
+                "url": "https://ipanel.instream.audio/8004/stream",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     }
