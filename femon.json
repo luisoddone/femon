@@ -5395,6 +5395,12 @@
                 "url": "http://190.60.40.35:12500/play/a0mq/index.m3u8",
                 "type": "HLS",
                 "icono": "https://api.teveo.com.co/1.1/node/poster?x=AgA1AAkF"
+            },
+            {
+                "name": "La Bocina Latina",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
             }
         ]
     }
