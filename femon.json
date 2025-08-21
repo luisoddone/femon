@@ -3176,6 +3176,59 @@
         ]
     },
     {
+        "name": "🟣 PACK PREMIUM UNIVERSAL (Pack 2) disponible para 🇵🇾",
+        "samples": [
+            {
+                "name": "Universal Cinema",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Universal Crime",
+                "url": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Universal Reality",
+                "url": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Universal TV",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "🟣 CANALES INFANTILES (Pack 1) disponible para 🇦🇷 🇵🇾",
         "samples": [
             {
@@ -4817,59 +4870,6 @@
                     "Origin": "https://embedtv-3.icu",
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-                }
-            }
-        ]
-    },
-    {
-        "name": "🟣 PACK PREMIUM UNIVERSAL (Pack 2) disponible para 🇵🇾",
-        "samples": [
-            {
-                "name": "Universal Cinema",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Universal Crime",
-                "url": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Universal Reality",
-                "url": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Universal TV",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
