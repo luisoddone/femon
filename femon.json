@@ -4880,6 +4880,14 @@
     },
     {
         "name": "🟣 CANALES DE COCINA (Pack 2) disponible para 🇵🇾",
-        "samples": []
+        "samples": [
+            {
+                "name": "El Gourmet",
+                "url": "http://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
