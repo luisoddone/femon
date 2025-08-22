@@ -742,6 +742,51 @@
         ]
     },
     {
+        "name": "🟣 DIRECTV ARGENTINA (🇦🇷)",
+        "samples": [
+            {
+                "name": "DIRECTV SPORTS",
+                "url": "http://magmaplayer.com/stream/m3u8/AwD4KmZkZy8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/312.m3u8",
+                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp",
+                "headers": {
+                    "X-App": "ps",
+                    "X-Version": "10/1.0.9",
+                    "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+                    "X-Did": "cddfe5e8c019cb3c",
+                    "User-Agent": "Magma Player/10",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "http://magmaplayer.com/stream/m3u8/AQD3KmZkAI8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/315.m3u8",
+                "icono": "https://i.ibb.co/357S9W8n/DSPORTS2-01.png",
+                "headers": {
+                    "X-App": "ps",
+                    "X-Version": "10/1.0.9",
+                    "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+                    "X-Did": "cddfe5e8c019cb3c",
+                    "User-Agent": "Magma Player/10",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "DIRECTV PLUS",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS +",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp"
+            }
+        ]
+    },
+    {
         "name": "🟣 CANALES DE PARAGUAY (🇵🇾)",
         "samples": [
             {
@@ -1212,51 +1257,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-            }
-        ]
-    },
-    {
-        "name": "🟣 DIRECTV ARGENTINA (🇦🇷)",
-        "samples": [
-            {
-                "name": "DIRECTV SPORTS",
-                "url": "http://magmaplayer.com/stream/m3u8/AwD4KmZkZy8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/312.m3u8",
-                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp",
-                "headers": {
-                    "X-App": "ps",
-                    "X-Version": "10/1.0.9",
-                    "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
-                    "X-Did": "cddfe5e8c019cb3c",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "DIRECTV SPORTS 2",
-                "url": "http://magmaplayer.com/stream/m3u8/AQD3KmZkAI8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/315.m3u8",
-                "icono": "https://i.ibb.co/357S9W8n/DSPORTS2-01.png",
-                "headers": {
-                    "X-App": "ps",
-                    "X-Version": "10/1.0.9",
-                    "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
-                    "X-Did": "cddfe5e8c019cb3c",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "DIRECTV PLUS",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS"
-            },
-            {
-                "name": "DIRECTV SPORTS +",
-                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp"
             }
         ]
     },
