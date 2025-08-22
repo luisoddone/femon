@@ -2219,6 +2219,66 @@
         ]
     },
     {
+        "name": "🟣 CANALES DE COCINA (🍱)",
+        "samples": [
+            {
+                "name": "El Gourmet",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Food Network",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Lifetime",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Mas Chic",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Mas_Chic/SA_Live_dash_enc_C/Mas_Chic.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/703/CH_LOGO/60/40/0/0/7838548607108.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dac8ff1688994efd898222acdd05cafc&key=22fdf97c7233667518258ed16ccb2545",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Tastemade (m)",
+                "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
+                "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png"
+            }
+        ]
+    },
+    {
         "name": "🟣 CANALES DE PLUTO TV (📹)",
         "samples": [
             {
@@ -3011,66 +3071,6 @@
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
-            }
-        ]
-    },
-    {
-        "name": "🟣 CANALES DE COCINA (🍱)",
-        "samples": [
-            {
-                "name": "El Gourmet",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Food Network",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
-                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Lifetime",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Mas Chic",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==//live/c6eds/Mas_Chic/SA_Live_dash_enc_C/Mas_Chic.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/703/CH_LOGO/60/40/0/0/7838548607108.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dac8ff1688994efd898222acdd05cafc&key=22fdf97c7233667518258ed16ccb2545",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Tastemade (m)",
-                "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
-                "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png"
             }
         ]
     }
