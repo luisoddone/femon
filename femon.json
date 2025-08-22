@@ -33,7 +33,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE ARGENTINA (🇦🇷)",
+        "name": "🟣 CANALES DE ARGENTINA 🇦🇷",
         "samples": [
             {
                 "name": "America TV",
@@ -325,7 +325,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DEL INTERIOR DE ARGENTINA (🇦🇷)",
+        "name": "🟣 CANALES DEL INTERIOR DE ARGENTINA 🇦🇷",
         "samples": [
             {
                 "name": "Canal 3 Rosario",
@@ -581,7 +581,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE ARGENTINO (🇦🇷)",
+        "name": "🟣 DEPORTE ARGENTINO 🇦🇷",
         "samples": [
             {
                 "name": "ESPN Premium",
@@ -742,7 +742,7 @@
         ]
     },
     {
-        "name": "🟣 DIRECTV ARGENTINA (🇦🇷)",
+        "name": "🟣 DIRECTV ARGENTINA 🇦🇷",
         "samples": [
             {
                 "name": "DIRECTV SPORTS",
@@ -787,7 +787,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE PARAGUAY (🇵🇾)",
+        "name": "🟣 CANALES DE PARAGUAY 🇵🇾",
         "samples": [
             {
                 "name": "SNT",
@@ -1003,7 +1003,7 @@
         ]
     },
     {
-        "name": "🟣 ​CANALES DEL INTERIOR DE PARAGUAY (🇵🇾)",
+        "name": "🟣 ​CANALES DEL INTERIOR DE PARAGUAY 🇵🇾",
         "samples": [
             {
                 "name": "Almaya TV Pilar",
@@ -1055,7 +1055,7 @@
         ]
     },
     {
-        "name": "​🟣 TIGO SPORTS PARAGUAY (🇵🇾)",
+        "name": "​🟣 TIGO SPORTS PARAGUAY 🇵🇾",
         "samples": [
             {
                 "name": "Tigo Sports 1",
@@ -1085,7 +1085,7 @@
         ]
     },
     {
-        "name": "🟣 JUEGOS PANAMERICANOS ASUNCION 2025 (🤾🚴🏊‍♀️)",
+        "name": "🟣 JUEGOS PANAMERICANOS ASUNCION 2025 🤾🚴🏊‍♀️",
         "samples": [
             {
                 "name": "Boleibol",
@@ -1167,7 +1167,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE FOX SPORTS MX (⚽)",
+        "name": "🟣 DEPORTE FOX SPORTS 🇲🇽",
         "samples": [
             {
                 "name": "FOX Sports Premium",
@@ -1200,7 +1200,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE SKY SPORTS (⚽)",
+        "name": "🟣 DEPORTE SKY SPORTS ⚽",
         "samples": [
             {
                 "name": "SKY Bundesliga",
@@ -1261,7 +1261,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE VARIADOS (⚽)",
+        "name": "🟣 DEPORTE VARIADOS ⚽",
         "samples": [
             {
                 "name": "Rally TV",
@@ -1366,7 +1366,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE DAZN (⚽)",
+        "name": "🟣 DEPORTE DAZN 🏎️",
         "samples": [
             {
                 "name": "DAZN Fast (Premier y La Liga)",
@@ -1402,7 +1402,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE PELICULAS Y SERIES (🎞️)",
+        "name": "🟣 CANALES DE PELICULAS Y SERIES 🎞️",
         "samples": [
             {
                 "name": "A3Cine",
@@ -1659,7 +1659,7 @@
         ]
     },
     {
-        "name": "🟣 PACK PREMIUM HBO (🎥)",
+        "name": "🟣 PACK PREMIUM HBO 🎥",
         "samples": [
             {
                 "name": "HBO",
@@ -1760,7 +1760,7 @@
         ]
     },
     {
-        "name": "🟣 PACK PREMIUM UNIVERSAL (📽️)",
+        "name": "🟣 PACK PREMIUM UNIVERSAL 📽️",
         "samples": [
             {
                 "name": "Universal Cinema",
@@ -1837,7 +1837,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES INFANTILES (👦)",
+        "name": "🟣 CANALES INFANTILES 👦",
         "samples": [
             {
                 "name": "Cartoon Network",
@@ -1950,7 +1950,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE NOVELAS (👩🏻‍🦰)",
+        "name": "🟣 CANALES DE NOVELAS 👩🏻‍🦰",
         "samples": [
             {
                 "name": "Canal de Las Estrellas",
@@ -2022,7 +2022,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES CULTURALES (🎪)",
+        "name": "🟣 CANALES CULTURALES 🎪",
         "samples": [
             {
                 "name": "Animal Planet",
@@ -2219,7 +2219,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE COCINA (🍱)",
+        "name": "🟣 CANALES DE COCINA 🍱",
         "samples": [
             {
                 "name": "El Gourmet",
@@ -2279,8 +2279,8 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE PLUTO TV (📹)",
-        "samples": [
+        "name": "🟣 CANALES DE PLUTO TV 📹",
+        "samples": [ 
             {
                 "name": "ARCHIVOS FORENSE",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
@@ -2417,7 +2417,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE RUNTIME (📟)",
+        "name": "🟣 CANALES DE RUNTIME 📟",
         "samples": [
             {
                 "name": "RUNTIME FAMILIA",
@@ -2471,7 +2471,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES INTERNACIONALES (🛄)",
+        "name": "🟣 CANALES INTERNACIONALES 🛄",
         "samples": [
             {
                 "name": "🇨🇴 Caracol",
@@ -2867,7 +2867,7 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE BRASIL (🇧🇷)",
+        "name": "🟣 CANALES DE BRASIL 🇧🇷",
         "samples": [
             {
                 "name": "Globo Sao Paulo",
@@ -2949,7 +2949,7 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE BRASIL (🇧🇷)",
+        "name": "🟣 DEPORTE BRASIL 🇧🇷",
         "samples": [
             {
                 "name": "Premiere 1",
