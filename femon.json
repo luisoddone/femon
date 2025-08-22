@@ -5715,6 +5715,12 @@
                 "url": "https://musicsrc.cvattv.com.ar/RM23",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
+            },
+            {
+                "name": "Dale Play (Reggaeton)",
+                "url": "https://musicsrc.cvattv.com.ar/RM30",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     }
