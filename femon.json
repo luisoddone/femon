@@ -2279,66 +2279,6 @@
         ]
     },
     {
-        "name": "🟣 CANALES DE COCINA (Pack 2) disponible para 🇵🇾",
-        "samples": [
-            {
-                "name": "El Gourmet",
-                "url": "http://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Food Network",
-                "url": "http://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Lifetime",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Mas Chic",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc_C/Mas_Chic.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/703/CH_LOGO/60/40/0/0/7838548607108.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dac8ff1688994efd898222acdd05cafc&key=22fdf97c7233667518258ed16ccb2545",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Tastemade (m)",
-                "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017"
-            }
-        ]
-    },
-    {
         "name": "🟣 CANALES DE PLUTO TV 🎞️",
         "samples": [
             {
