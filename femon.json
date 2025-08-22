@@ -1255,29 +1255,6 @@
         ]
     },
     {
-        "name": "🟣 MLS SEASSON PASS (Activo cuando hay transmisiones en Vivo)",
-        "samples": [
-            {
-                "name": "Inter Miami 1",
-                "url": "http://fullgo.xyz:8880/Todoen1824/Fbs72@9237Na2/443562",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "Inter Miami 2",
-                "url": "http://flx.lat:8080//live/Goldentv675/Tv54794t5656tv/317423.ts",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "Inter Miami 3",
-                "url": "",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            }
-        ]
-    },
-    {
         "name": "🟣 DEPORTE VARIADOS ⚽",
         "samples": [
             {
