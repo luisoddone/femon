@@ -5733,6 +5733,12 @@
                 "url": "https://musicsrc.cvattv.com.ar/RM27",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Dale Play al Rock",
+                "url": "https://musicsrc.cvattv.com.ar/RM18",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     }
