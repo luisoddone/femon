@@ -121,13 +121,14 @@
             },
             {
                 "name": "Canal 26",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDAwMjM4Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmI3MjRhY2UzZDhmN2FlYiIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODI3NDM4LTMzMSIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSw4Niw4OF19.MB8GD_QxQppLxE1TH_SmOLXTEP81GB-qTfTz_g0zpFUKZG861D6p7hxFzyoQXwngwBTAd-Pg0HX7mNjp6_XF_w==//live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b835e5cb05e431cb57a3dcc775e4d0f&key=21e9e0ab74fc12306a2624a1ee80eef2",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
                 "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
