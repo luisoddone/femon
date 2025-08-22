@@ -5705,12 +5705,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             },
             {
-                "name": "Musica Retro",
-                "url": "https://musicsrc.cvattv.com.ar/RM16",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
-            },
-            {
                 "name": "Musica Reggae",
                 "url": "https://musicsrc.cvattv.com.ar/RM23",
                 "type": "HLS",
@@ -5725,6 +5719,12 @@
             {
                 "name": "Musica Reggaeton Best",
                 "url": "https://musicsrc.cvattv.com.ar/RM29",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Musica Retro",
+                "url": "https://musicsrc.cvattv.com.ar/RM16",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             },
