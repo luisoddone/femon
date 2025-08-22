@@ -1251,6 +1251,12 @@
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS +",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp"
             }
         ]
     },
