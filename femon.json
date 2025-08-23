@@ -39,6 +39,12 @@
                 "url": "",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Eventos 2",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },
