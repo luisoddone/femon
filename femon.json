@@ -166,6 +166,12 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "MLS | August 23 5:30 pm | D.C. United vs. Inter Miami CF",
+                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804759",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },
