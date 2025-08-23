@@ -86,7 +86,7 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48d0e34c8797c5c2a742d2630a8fb975&key=fb5d12b9d8febe836e5670abd003ddca",
                 "headers": {
-                    "Referer": "https://portal.app.flow.com.ar",
+                    "Origin": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
             },
