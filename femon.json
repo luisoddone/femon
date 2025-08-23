@@ -25,6 +25,17 @@
                 }
             },
             {
+                "name": "Flow Music 🇦🇷",
+                "url": "https://edge-mix03-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MTI5NTI2Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfMS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiODM1Y2I0Y2JhYzYyNzcyZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1OTU2NzI3LTczMiIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.zFsmnIZwrJseahlOlREXzDQxRMRQe8WE1N12_dB_MtgMKkZ04c2A9bMkLeO1fv20KHnqnWbAVG6kldtKsL4GiA==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Canal 25",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDA1NjE1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiM2E1ZmNkZGIyZjg3MyIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1ODMyODE2LTEyNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.Z_q0b_NILcAEKgf2WHQ7NDClBWY3LUnO14nMqnb9YFiiIm7xfU1h00OPeRBo1r4_e8_f4-NaoQ5OM6nZmakr5w==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
                 "type": "CLEARKEY",
@@ -38,17 +49,6 @@
             {
                 "name": "Canal 605",
                 "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MTI5Mjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfWFAvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwNGE2Y2JkMzI3YzY1ZDYiLCJzZXNzaW9uX2lkIjoiODI1MjQ3NjUtMTc1NTk1NjQ3NS04OTUiLCJjbGllbnRfaWQiOiIxMzEyMTg4NCIsImRldmljZV9pZCI6IjgyNTI0NzY1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjY5Iiwic291cmNlcyI6WzczLDg1LDE0NCw4Niw4OF19.Yj7Gg4jCp4muymwXUWfVxnKdDZA0dJfxVfWz3os6cL3OWhQBEOn2an5tXh3AXxALdxujSnhhqJwHZkkfrcySpA==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Flow Music",
-                "url": "https://edge-mix03-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MTI5NTI2Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfMS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiODM1Y2I0Y2JhYzYyNzcyZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1OTU2NzI3LTczMiIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.zFsmnIZwrJseahlOlREXzDQxRMRQe8WE1N12_dB_MtgMKkZ04c2A9bMkLeO1fv20KHnqnWbAVG6kldtKsL4GiA==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
                 "type": "CLEARKEY",
                 "icono": "",
                 "drm_license_uri": "",
