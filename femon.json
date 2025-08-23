@@ -61,6 +61,12 @@
                     "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Al nassr vs Al ahli saudi",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
+                "type": "HLS",
+                "icono": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F03%2Flead-pic-12.jpg&w=1920&q=75"
             }
         ]
     },
