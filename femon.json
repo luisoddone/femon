@@ -78,17 +78,6 @@
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Eventos 3",
-                "url": "https://edge-mix03-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MTI5NTI2Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfMS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiODM1Y2I0Y2JhYzYyNzcyZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1OTU2NzI3LTczMiIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.zFsmnIZwrJseahlOlREXzDQxRMRQe8WE1N12_dB_MtgMKkZ04c2A9bMkLeO1fv20KHnqnWbAVG6kldtKsL4GiA==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
