@@ -77,6 +77,12 @@
                     "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Al nassr vs Al ahli saudi",
+                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
+                "type": "HLS",
+                "icono": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsportstar.thehindu.com%2Ffootball%2Fal-nassr-vs-al-ahli-live-score-highlights-saudi-super-cup-final-updates-streaming-info-cristiano-ronaldo%2Farticle69968199.ece&psig=AOvVaw0-FAI0QD6iu6guxpIrXe8I&ust=1756037422322000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNi9-afzoI8DFQAAAAAdAAAAABAW"
             }
         ]
     },
