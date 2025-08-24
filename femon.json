@@ -129,6 +129,17 @@
         "name": "⚽ EVENTOS IMPORTANTES EN VIVO ⚽(Activo cuando hay transmisiones exclusivas)",
         "samples": [
             {
+                "name": "ESPN Premiun",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
                 "name": "MLS | D.C. United vs. Inter Miami CF",
                 "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804760",
                 "type": "HLS",
@@ -145,17 +156,6 @@
                 "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-59TlhRpyEe4cWyKEe_f40AetRXs3B8YT1UuopZDkP8cjMQlf6ZkFxRL5L6gXiKuFETIIBDhlG5oSxXiXzUbdIgZLnEpRqWxXGgr_bpCG3WpfNJbXm6RDlocj3e6b_EXplIdU0ToiY_UIa0ryN8xS-Z60QqZQlnNUlbAi2AiTWJ-6xHhFNseCdwn2pPQ/s1600/Al%20Nassr%20X%20Al%20Ahli.png=w913-h506-p-k-no-nu"
-            },
-            {
-                "name": "ESPN Premiun",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
             },
             {
                 "name": "TNT Sports HD",
