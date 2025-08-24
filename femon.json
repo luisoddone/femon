@@ -130,13 +130,13 @@
         "samples": [
             {
                 "name": "MLS | D.C. United vs. Inter Miami CF",
-                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804759",
+                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804760",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             },
             {
                 "name": "MLS | D.C. United vs. Inter Miami CF",
-                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804760",
+                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804759",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             },
