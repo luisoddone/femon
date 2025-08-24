@@ -151,6 +151,17 @@
                 }
             },
             {
+                "name": "TyC Sports",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58b7b99c78d841bd841ffcf001a2c397&key=eccfd978965e89e1afe14d7c3b38f7d8",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
                 "name": "MLS | D.C. United vs. Inter Miami CF",
                 "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804760",
                 "type": "HLS",
@@ -167,17 +178,6 @@
                 "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-59TlhRpyEe4cWyKEe_f40AetRXs3B8YT1UuopZDkP8cjMQlf6ZkFxRL5L6gXiKuFETIIBDhlG5oSxXiXzUbdIgZLnEpRqWxXGgr_bpCG3WpfNJbXm6RDlocj3e6b_EXplIdU0ToiY_UIa0ryN8xS-Z60QqZQlnNUlbAi2AiTWJ-6xHhFNseCdwn2pPQ/s1600/Al%20Nassr%20X%20Al%20Ahli.png=w913-h506-p-k-no-nu"
-            },
-            {
-                "name": "TyC Sports",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58b7b99c78d841bd841ffcf001a2c397&key=eccfd978965e89e1afe14d7c3b38f7d8",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
             }
         ]
     },
