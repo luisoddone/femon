@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "Quiero",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjQxOTMzIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2Q2N2Y2ZGEwMWQ1OGFiOCIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MDY5MTM0LTYxNCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.BHpfJ41f9if6Q6k-0YCufjuzeImVIXjfUmVRO_ctPyMTSaqqS_jKysFh0S1KhHoNXS9kS-aXj6xxFy-O1XrljQ==//live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+                "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjU0MDk0Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjE2OTUzNzA4NDA4ODJiIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYwODEyOTUtODUxIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjI2OSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.4p4LEaugoFUA99Nakhv2bfEWb7rQ5UhUewfpTRb8fgNwj8Xye9uwiibzDUETD08AVbIV1DHF7FPAf7j0HX6j3g==//live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
