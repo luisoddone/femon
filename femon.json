@@ -6,7 +6,7 @@
                 "name": "Quiero",
                 "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjU0MDk0Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjE2OTUzNzA4NDA4ODJiIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYwODEyOTUtODUxIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjI2OSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.4p4LEaugoFUA99Nakhv2bfEWb7rQ5UhUewfpTRb8fgNwj8Xye9uwiibzDUETD08AVbIV1DHF7FPAf7j0HX6j3g==//live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
