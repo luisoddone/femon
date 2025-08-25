@@ -91,17 +91,6 @@
                 }
             },
             {
-                "name": "Eventos 3 🇺🇾",
-                "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjU0MDk0Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjE2OTUzNzA4NDA4ODJiIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYwODEyOTUtODUxIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjI2OSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.4p4LEaugoFUA99Nakhv2bfEWb7rQ5UhUewfpTRb8fgNwj8Xye9uwiibzDUETD08AVbIV1DHF7FPAf7j0HX6j3g==//live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f774b06a300783596f27b552226de9c0&key=4d6256b28b487bcf906bcf0328635747",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "Eventos 4",
                 "url": "https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd",
                 "type": "CLEARKEY",
