@@ -130,6 +130,18 @@
                 }
             },
             {
+                "name": "🇵🇾 TNT Sports",
+                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "🇦🇷 TyC Sports",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
                 "type": "CLEARKEY",
@@ -157,18 +169,6 @@
                 "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-59TlhRpyEe4cWyKEe_f40AetRXs3B8YT1UuopZDkP8cjMQlf6ZkFxRL5L6gXiKuFETIIBDhlG5oSxXiXzUbdIgZLnEpRqWxXGgr_bpCG3WpfNJbXm6RDlocj3e6b_EXplIdU0ToiY_UIa0ryN8xS-Z60QqZQlnNUlbAi2AiTWJ-6xHhFNseCdwn2pPQ/s1600/Al%20Nassr%20X%20Al%20Ahli.png=w913-h506-p-k-no-nu"
-            },
-            {
-                "name": "🇵🇾 TNT Sports",
-                "url": "https://cdn-py.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "🇵🇾 TyC Sports",
