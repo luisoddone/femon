@@ -145,6 +145,18 @@
                 "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451",
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-59TlhRpyEe4cWyKEe_f40AetRXs3B8YT1UuopZDkP8cjMQlf6ZkFxRL5L6gXiKuFETIIBDhlG5oSxXiXzUbdIgZLnEpRqWxXGgr_bpCG3WpfNJbXm6RDlocj3e6b_EXplIdU0ToiY_UIa0ryN8xS-Z60QqZQlnNUlbAi2AiTWJ-6xHhFNseCdwn2pPQ/s1600/Al%20Nassr%20X%20Al%20Ahli.png=w913-h506-p-k-no-nu"
+            },
+            {
+                "name": "🇵🇾 ESPN PREMIUM",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
