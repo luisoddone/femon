@@ -122,6 +122,17 @@
                     "Origin": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Quiero",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjQxOTMzIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2Q2N2Y2ZGEwMWQ1OGFiOCIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MDY5MTM0LTYxNCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.BHpfJ41f9if6Q6k-0YCufjuzeImVIXjfUmVRO_ctPyMTSaqqS_jKysFh0S1KhHoNXS9kS-aXj6xxFy-O1XrljQ==//live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
