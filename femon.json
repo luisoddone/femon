@@ -69,11 +69,11 @@
                 }
             },
             {
-                "name": "Music 1 (c606) 🇦🇷",
-                "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjU0MDk0Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjE2OTUzNzA4NDA4ODJiIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYwODEyOTUtODUxIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjI2OSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.4p4LEaugoFUA99Nakhv2bfEWb7rQ5UhUewfpTRb8fgNwj8Xye9uwiibzDUETD08AVbIV1DHF7FPAf7j0HX6j3g==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
+                "name": "MTV 00s",
+                "url": "https://edge-vod04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjQzMTk3Iiwic2lwIjoiMTc5LjM4LjE4My4yMDkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVmYWRmZTcyMGVkNDQwNDAiLCJzZXNzaW9uX2lkIjoiODI0NTE0MjYtMTc1NjA3MDM5Ny02ODAiLCJjbGllbnRfaWQiOiIxMzI3MjAxNSIsImRldmljZV9pZCI6IjgyNDUxNDI2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbMTQ0LDg2XX0=.wjZkAOl8psHp0q2wShRpSa-5PfnjPZ1p1xVUXS6QXM0GNWP49PKDi9vAuCPtMjqqoQogLEDz3nLcGJa2eHmQOA==//live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png",
-                "drm_license_uri": "",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
