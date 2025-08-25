@@ -169,6 +169,18 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "🇵🇾 TyC Sports",
+                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
