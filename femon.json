@@ -3223,6 +3223,17 @@
                     "Origin": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "MUSIC XP (606)",
+                "url": "https://edge-mix03-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NDI0NDQ0Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfMS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjlkNWJkZDI3MWI1NjdlMiIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MjUxNjQzLTcxMCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMjEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.RhutFNopEYWOaaAehuF9ZahW9N4JJ1bpHbfYKBt4eAEneBg310vZCRYw3aSyr75BpMFFOKct5KhfWV5X3wNyhA==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
