@@ -3,17 +3,6 @@
         "name": "✨ FEMON PLAY* ✨ Puro Entretenimiento ✨ Cuenta Premium Original con su logo a la vista ✨",
         "samples": [
             {
-                "name": "Allegro",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MzQ4MzM5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZGIyMDNkMjFiNzdjODQxIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYxNzU1MzktMzE3IiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.NNZZqlcHgbxe9tsbbFHKfv4u0vE0P0As7w_oPmRZ1RvHYhAP0RChnNvQ7TjKS7xRBoUsqM-lyR-biBhkziFnDA==//live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/ts85rN6/allegro.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "CM",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MzQ4MzM5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZGIyMDNkMjFiNzdjODQxIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYxNzU1MzktMzE3IiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.NNZZqlcHgbxe9tsbbFHKfv4u0vE0P0As7w_oPmRZ1RvHYhAP0RChnNvQ7TjKS7xRBoUsqM-lyR-biBhkziFnDA==//live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
                 "type": "CLEARKEY",
