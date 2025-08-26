@@ -3163,6 +3163,17 @@
                     "Referer": "https://embedtv-3.icu/",
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
                 }
+            },
+            {
+                "name": ":",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2Mzk3MDkzIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsXzkwL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlMDYzZGQwZWE5YTc2MWNiIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYyMjQyOTItODEzIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI3MSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.XnGbdp4mOYdzd9QSeu6ClIIMQW2j3AUgxB--Ur3JDVvPrrpJpGi3rFx1qWoZ1TpUCGczIzYUCglkzxh6P7CH5A",
+                "type": "CLEARKEY",
+                "icono": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ca50103f3285421e8be7da8c0c0e7a54&key=3608e92a6feddf228c1f035ebb764426",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
