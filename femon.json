@@ -3212,6 +3212,17 @@
                     "Origin": "",
                     "User-Agent": ""
                 }
+            },
+            {
+                "name": "MUSIC XP",
+                "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NDI0Mjc5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfWFAvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiNGQwMjY2ZGZmOWRjNzQiLCJzZXNzaW9uX2lkIjoiODI1MjQ3NjUtMTc1NjI1MTQ3OS0zNDUiLCJjbGllbnRfaWQiOiIxMzEyMTg4NCIsImRldmljZV9pZCI6IjgyNTI0NzY1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjY5Iiwic291cmNlcyI6WzczLDg1LDE0NCw4Niw4OF19.qFfF80pEbhNuy2n2Qe0IftksnmvWdhvQ0YlgEwPK0fkeGcJO8n0U20libJ2m4mhANj9KKPLzeE2DyfY6L9GYRg==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f34cd7709f093d23d4db009107d96862&key=d8a829138d970b45e867c9733a31b2f0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
