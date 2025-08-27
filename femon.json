@@ -3228,7 +3228,7 @@
                 "name": "MUSIC PROXIMAMENTE (*)",
                 "url": "https://edge-mix03-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NDI2NDQ1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Zsb3dfTXVzaWNfMS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2E1OTljMmIyYzQyY2FkZiIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MjUzNjQ1LTI0MSIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMjEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.cuQtsOHZ3sr1enxWoGFNxNUDboEwyg99R9LFkD4Vq194chExlLclx21v0TFQr9tncj8kOHfs2_8iXOPKKf6l3w==/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://television-libre.online/img/flowmusic.webp",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f34cd7709f093d23d4db009107d96862&key=d8a829138d970b45e867c9733a31b2f0",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
