@@ -3,17 +3,6 @@
         "name": "✨ FEMON PLAY* ✨ Puro Entretenimiento ✨ Cuenta Premium Original con su logo a la vista ✨",
         "samples": [
             {
-                "name": "Nick Music",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MzQ4MzM5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZGIyMDNkMjFiNzdjODQxIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYxNzU1MzktMzE3IiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.NNZZqlcHgbxe9tsbbFHKfv4u0vE0P0As7w_oPmRZ1RvHYhAP0RChnNvQ7TjKS7xRBoUsqM-lyR-biBhkziFnDA==//live/c6eds/Nickmusic/SA_Live_dash_enc_C/Nickmusic.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                }
-            },
-            {
                 "name": "Quiero Musica",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MzQ4MzM5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZGIyMDNkMjFiNzdjODQxIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTYxNzU1MzktMzE3IiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjEyMCIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.NNZZqlcHgbxe9tsbbFHKfv4u0vE0P0As7w_oPmRZ1RvHYhAP0RChnNvQ7TjKS7xRBoUsqM-lyR-biBhkziFnDA==//live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
                 "type": "CLEARKEY",
