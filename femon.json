@@ -3207,7 +3207,7 @@
                 "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NDI1NjY5Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0V2ZW50b3NfMy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjM4YjViNTMxZDk0YzAwOCIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MjUyODY5LTkxMiIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNjkiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.u06_qaWgT7mzMJZOWD0yXyOtZH-XuSpabt6c8lts2_UzS9-20-9u-P-kwLL_s3B8qloUKAz10pZgWJVAxqAmvg==/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
                 "type": "CLEARKEY",
                 "icono": "",
-                "drm_license_uri": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e54e9ea87a634658fbba0e380aa701a7&key=4e486d25d7d0e7d131743b285963c643",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
