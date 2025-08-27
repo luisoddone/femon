@@ -1,6 +1,6 @@
 [
     {
-        "name": "✨ FEMON PLAY* ✨ Puro Entretenimiento ✨ Cuenta Premium Original con su logo a la vista ✨",
+        "name": "✨ FEMONPLAY* ✨ Puro Entretenimiento ✨ Cuenta Premium Original con su logo a la vista ✨",
         "samples": [
             {
                 "name": "Quiero Musica",
@@ -1131,7 +1131,7 @@
                 "name": "Tigo Sports 1",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",
+                "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
             {
@@ -1150,7 +1150,19 @@
                 "name": "Tigo Sports 3",
                 "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/857036.ts",
                 "type": "HLS",
-                "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
+                "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
+            },
+            {
+        "name": "TIGO COPA PY",
+        "url": "https://live.enhdtv.com:8081/8166/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
+      },
+      {
+        "name": "TIGO INTERMEDIAS",
+        "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
             }
         ]
     },
