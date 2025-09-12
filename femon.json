@@ -2012,13 +2012,6 @@
                 }
             },
             {
-                "name": "RCN + (m)",
-                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png"
-            },
-            {
                 "name": "Telemundo",
                 "url": "https://edge-live03-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3ODY0NDgyIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxM2I2MmIwZTc0MjZkNjExIiwic2Vzc2lvbl9pZCI6IjgyNTI0NzY1LTE3NTc2OTE2ODItMjcwIiwiY2xpZW50X2lkIjoiMTMxMjE4ODQiLCJkZXZpY2VfaWQiOiI4MjUyNDc2NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjI2OSIsInNvdXJjZXMiOls3Myw4NSwxNDQsODYsODhdfQ==.aBQyilZ3391KyFU2HfdA5oIxo3vrJb73DO4DsoLv7RNesDQYdY6_Dnw2RXygYlVn0OghwQY1iaJG8XsgwkDI6Q==/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
                 "type": "CLEARKEY",
