@@ -1352,12 +1352,6 @@
                 "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-                "name": "DAZN F1 (ts1)",
-                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/7832.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
                 "name": "DAZN F1 (ts2)",
                 "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/158.ts",
                 "type": "HLS",
