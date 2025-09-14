@@ -829,12 +829,6 @@
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
                 }
-            },
-            {
-                "name": "DIRECTV SPORTS +",
-                "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/174282",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp"
             }
         ]
     },
