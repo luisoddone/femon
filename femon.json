@@ -92,12 +92,6 @@
                 "url": "",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "MLS | Inter Miami CF",
-                "url": "",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
         ]
     },
