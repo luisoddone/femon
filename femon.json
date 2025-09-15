@@ -33,9 +33,8 @@
             {
                 "name": "Evento 3",
                 "url": "",
-                "type": "CLEARKEY",
-                "icono": "https://github.com/luisoddone/virus/blob/main/ICONO%20DE%20LA%20APP.png?raw=true",
-                "drm_license_uri": ""
+                "type": "HLS",
+                "icono": "https://github.com/luisoddone/virus/blob/main/ICONO%20DE%20LA%20APP.png?raw=true"
             },
             {
                 "name": "Evento 4",
