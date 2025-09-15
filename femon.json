@@ -1303,42 +1303,6 @@
         ]
     },
     {
-        "name": "🟣 DEPORTE DAZN (🏁)",
-        "samples": [
-            {
-                "name": "DAZN Fast (Premier y La Liga)",
-                "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                }
-            },
-            {
-                "name": "DAZN 1",
-                "url": "https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec",
-                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-            },
-            {
-                "name": "DAZN F1 (ts1)",
-                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/7832.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
-                "name": "DAZN F1 (ts2)",
-                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/158.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            }
-        ]
-    },
-    {
         "name": "🟣 CANALES DE PELICULAS Y SERIES (🎞️)",
         "samples": [
             {
