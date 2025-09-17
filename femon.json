@@ -3,10 +3,9 @@
         "name": "INGRESA A LA CARPETA Y ACTUALIZA TU APLICACION O CONTACTANOS AL +595 983 748 527",
         "samples": [
             {
-                "name": "NOTICIA IMPORTANTE",
+                "name": "VER NOTICIA IMPORTANTE",
                 "url": "https://vz-feb2dc17-ee3.b-cdn.net/034cb847-6d97-4f68-b99c-b78a3a038c2f/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
+                "type": "HLS",
                 "icono": "https://github.com/dog852223/windows32/blob/main/EVENTOS.png?raw=true"
             }
         ]
