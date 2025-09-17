@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "VER NOTICIA IMPORTANTE",
-                "url": "https://vz-feb2dc17-ee3.b-cdn.net/034cb847-6d97-4f68-b99c-b78a3a038c2f/playlist.m3u8",
+                "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/DSQqAXpKi8NTVZHxHhs3h3gRAfdrgkhHt8PgUUVnB4vj8amUiDW58WY025I02ntOisSDey1qNla9dfgM1yiuDL3V8s1G00M835Z/rendition.m3u8?cdn=fastly&expires=1758740400&skid=default&signature=NjhkNDQ2MzdfYmY0YjkyNTA2NmM1NjI3MGJiMmY0YzFkMmI4OTQ4NzNhYjdkZTU1ODgzNmUwNDk4MWM2ZjI0Mjg0YmY0YWMyMQ==&vsid=zyKyiY3D41Hd301GiJcTW89Tg2624z4QVpaSeICOreJCTzrmdVmuRoEDCgiUX00S01A01hv3JkkagGY",
                 "type": "HLS",
                 "icono": "https://github.com/dog852223/windows32/blob/main/EVENTOS.png?raw=true"
             }
