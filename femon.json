@@ -12,6 +12,13 @@
     },
     {
         "name": "NO TE OLVIDES, FEMON PLAY SE ACTUALIZO PARA BRINDARTE LA MEJOR OPCION Y SERVICIO, CONTACTATE TAMBIEN POR TELEGRAM USUARIO @femonplay",
-        "samples": []
+        "samples": [
+            {
+                "name": "NO TE OLVIDES, FEMON PLAY SE ACTUALIZO PARA BRINDARTE LA MEJOR OPCION Y SERVICIO, CONTACTATE TAMBIEN POR TELEGRAM USUARIO @femonplay",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]
