@@ -1,13 +1,6 @@
 [
     {
         "name": "INGRESA A LA CARPETA Y ACTUALIZA TU APLICACION O CONTACTANOS AL +595 983 748 527",
-        "samples": [
-            {
-                "name": "VER NOTICIA IMPORTANTE",
-                "url": "https://vz-feb2dc17-ee3.b-cdn.net/034cb847-6d97-4f68-b99c-b78a3a038c2f/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/dog852223/windows32/blob/main/EVENTOS.png?raw=true"
-            }
-        ]
+        "samples": []
     }
 ]
